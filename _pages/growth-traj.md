@@ -18,7 +18,7 @@ Submitted to Annals of Epidemiology
 
 # Manuscript draft
 
-[Recent draft](../ms-2015-05-revise1/manuscript.pdf)
+[Recent draft](../../ms-2015-05-revise1/manuscript.pdf)
 
 # Code repository
 
