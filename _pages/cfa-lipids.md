@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Confirmatory factor analysis (CFA) of multivariate lipid distributions
-permalink: /cfa-lipids/
+permalink: /manuscripts/cfa-lipids/
 ---
 
 # Background
@@ -20,7 +20,7 @@ Writing manuscript
 
 ## Manuscript draft
 
-[Current draft](../ms201608-2/manuscript.html)
+[Current draft](../ms201608-2/ms-201705-draft.html)
 
 ## Repo
 
