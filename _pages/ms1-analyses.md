@@ -40,7 +40,7 @@ Using the imputed data I created the following analyses:
 
 2. [Results for height](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice-ht.html){:target="_blank"} -- [code](../includes/scripts/paper1/table2-mice-ht.Rmd)
 
-3. [Results for weight-for-length (wf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice-wfl.html){:target="_blank"} -- [code](../includes/scripts/paper1/table2-mice-wfl.Rmd)
+3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice-wfl.html){:target="_blank"} -- [code](../includes/scripts/paper1/table2-mice-wfl.Rmd)
 
 ---
 
@@ -48,10 +48,13 @@ Using the imputed data I created the following analyses:
 
 **NOTE**: I create the Mplus models with [MplusAutomation in R](../includes/scripts/paper1/lgmm/export-mplus.Rmd) with scripts to create batches of Mplus files that I run on batches of files in virtuallab with an [.R script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/run-models.R).
 
-[Association between growth and maternal predictors -- stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.Rmd)
+[Model fit info -- stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.Rmd)
 
   - [Template used to create Mplus files](../includes/scripts/paper1/lgmm/virtuallab/template_mplus1-strat-sex-assn.txt)
 
-[Association between growth and maternal predictors -- pooled across sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/adj-sex/summarize-mplus-results.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/adj-sex/summarize-mplus-results.Rmd)
+[Model fit info -- pooled across sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/adj-sex/summarize-mplus-results.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/adj-sex/summarize-mplus-results.Rmd)
+
+[Estimated association between maternal characterisics and child growth parameters -- pooled across sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/assn/models-results-plots-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/assn/models-results-plots-assn.Rmd)
+
 
   - [Template used to create Mplus files](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/template_mplus1-bysex.txt)
