@@ -8,7 +8,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## 1. Statistical analysis plan
 
-[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.pdf){:target="_blank"} -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd){:target="_blank"}
+[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.html){:target="_blank"} -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd){:target="_blank"}
 
 <p></p>
 
