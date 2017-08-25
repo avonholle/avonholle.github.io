@@ -10,7 +10,7 @@ Pitfalls in standardizing outcome when assessing weight change differences acros
 
 # Status
 
-Revising for submission to Annals of Epidemiology
+Submitted to Annals of Epidemiology
 
 
 # Statistical Analysis Plan (SAP)
