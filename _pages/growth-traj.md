@@ -18,7 +18,7 @@ Submitted to Annals of Epidemiology
 
 # Manuscript draft
 
-[Recent draft](../../ms-2015-05-revise1/manuscript.pdf)
+[Recent draft](../../ms-2015-05-revise1/manuscript.pdf) -- [tables](../../ms-2015-05-revise1/ms-tables-girls.pdf) -- [figure](../../ms-2015-05-revise1/ms-figure-girls.pdf) -- [appendix](../../ms-2015-05-revise1/appendix.pdf)
 
 # Code repository
 
