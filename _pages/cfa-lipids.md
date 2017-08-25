@@ -16,11 +16,11 @@ Writing manuscript
 
 ## Statistical Analysis Plan (SAP)
 
-[SAP with draft abstract](../ms201608-2/StatisticalAnalysisPlan.html)
+[SAP with draft abstract](../../ms201608-2/StatisticalAnalysisPlan.html)
 
 ## Manuscript draft
 
-[Current draft](../ms201608-2/ms-201705-draft.html)
+[Current draft](../../ms201608-2/ms-201705-draft.html)
 
 ## Repo
 
