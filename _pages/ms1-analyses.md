@@ -6,7 +6,7 @@ permalink: /diss/ms1-analyses/
 
 ## 1. Statistical analysis plan
 
-[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sap1.pdf){:target="_blank"} -- [code for SAP](../includes/scripts/paper1/sap1.Rmd){:target="_blank"}
+[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sap1.pdf){:target="_blank"} -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sap1.Rmd){:target="_blank"}
 
 <p></p>
 
