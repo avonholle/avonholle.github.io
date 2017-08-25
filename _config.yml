@@ -80,7 +80,7 @@ author:
   name             : "Ann Von Holle"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a doctoral candidate at UNC Department of Epidemiology."
-  location         : "UNC"
+  location         : 
   email            :
   uri              :
   bitbucket        :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "avonholle"
   gitlab           :
   google_plus      :
   keybase          :
@@ -232,6 +232,13 @@ compress_html:
   ignore:
     envs: development
 
+# docs    
+docsnav:
+  - title: Manuscripts
+    children:
+      - title: "CFA lipids"
+        url: /manuscripts/cfa-lipids/
+
 
 # Defaults
 defaults:
@@ -246,3 +253,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docsnav"
+  
