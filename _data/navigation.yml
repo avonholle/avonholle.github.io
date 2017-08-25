@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "manuscripts"
+  - title: "Manuscripts"
     url: /manuscripts/
+  - title: "Dissertation"
+    url: /diss/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +12,22 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# navbars
+navbars:
+  - title: Manuscripts
+    children:
+      - title: "CFA lipids"
+        url: /manuscripts/cfa-lipids/
+      - title: "SLCS lipid variants"
+        url: /manuscripts/slcs-lipids/
+      - title: "Standardization of growth trajectories"
+        url: /manuscripts/growth-traj/
+  - title: Dissertation
+    children:
+      - title: "manuscript 1"
+        url: /diss/ms1-analyses/
+      - title: "manuscript 2"
+        url: /diss/ms2-analyses/
+      - title: "manuscript 3"
+        url: /diss/ms3-analyses/

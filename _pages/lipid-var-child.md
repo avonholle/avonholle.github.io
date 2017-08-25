@@ -4,42 +4,41 @@ title: Lipid variants in Santiago Longitudinal Cohort Study (SLCS)
 permalink: /manuscripts/slcs-lipids/
 ---
 
+## Background
 
-# Background
-
-## Title
+### Title
 
 Lipid-related Genetic Variants and Lipid Outcomes in a Cohort of Chilean Children
 
-## Status
+### Status
 
 Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/EPILifestyle/UCM_316904_EPILifestyle-Scientific-Sessions.jsp) meetings.
 
-[Abstract](../screenshot-abstract-slcs-aha2017.png)
+[Abstract](../../ms-201608-1/screenshot-abstract-slcs-aha2017.png)
 
-## Statistical Analysis Plan (SAP)
+### Statistical Analysis Plan (SAP)
 
 [SAP with draft abstract](../ms-201608-1/StatisticalAnalysisPlan.html)
 
-## Manuscript draft
+### Manuscript draft
 
-[Link to google docs draft here.]
+[When available, place link to google docs draft here.]
 
-## Repo
+### Repo
 
 [Github repository for analysis files](https://github.com/avonholle/slcs-lipid-variants)
 
 ---
 
-# Current analytic work
+## Current analytic work
 
-## Poster for AHA 2017 EPID/Lifestyle conference
+### Poster for AHA 2017 EPID/Lifestyle conference
 
 [Poster](../ms-201608-1/aha-2017-slcs.pdf)
 
 [Slides for poster](../ms-201608-1/aha-2017-slcs-slides.pdf)
 
-## Results
+### Results
 
 [Preliminary summary of results](../ms-201608-1/analysis-summary.pdf)
 
@@ -49,7 +48,7 @@ Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/profes
 [Online slides](../ms-201608-1/chile-slides-201612.html) -- [Code](https://github.com/avonholle/ms-201608-1/blob/main/slides/chile-slides-201612.Rmd)
 -->
 
-## Additional information
+### Additional information
 
 1. [information on the phenotype](../ms-201608-1/phenotype-file.html)
 

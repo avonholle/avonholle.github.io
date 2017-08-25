@@ -4,50 +4,46 @@ title: Confirmatory factor analysis (CFA) of multivariate lipid distributions
 permalink: /manuscripts/cfa-lipids/
 ---
 
-# Background
+## Background
 
-## Title
+### Title
 
 Confirmatory factor analysis (CFA) of multivariate lipid distributions across time and race-ethnic groups: United States, 2003-2012
 
-## Status
+### Status
 
 Writing manuscript
 
-## Statistical Analysis Plan (SAP)
+### Statistical Analysis Plan (SAP)
 
 [SAP with draft abstract](../../ms201608-2/StatisticalAnalysisPlan.html)
 
-## Manuscript draft
+### Manuscript draft
 
 [Current draft](../../ms201608-2/ms-201705-draft.html)
 
-## Repo
+### Repo
 
 [https://github.com/avonholle/ms-cfa-lipids](https://github.com/avonholle/ms-cfa-lipids)
 
 ---
 
-# Current analytic work
 
+### Completed analytic work
 
+- Poster for [AHA EPID/Lifestyle 2017 conference](http://professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/EPILifestyle/UCM_316904_EPILifestyle-Scientific-Sessions.jsp).
 
+  * [Meeting abstract](../../ms201608-2/screenshot-abstract-cfa-aha2017.png)
 
-# Completed analytic work
+  * [Poster](../../ms201608-2/aha-2017-cfa.pdf)
 
-## Poster for [AHA EPID/Lifestyle 2017 conference](http://professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/EPILifestyle/UCM_316904_EPILifestyle-Scientific-Sessions.jsp).
-
-[Meeting abstract](../screenshot-abstract-cfa-aha2017.png)
-
-[Poster](../ms201608-2/aha-2017-cfa.pdf)
-
-[e-slides for Poster](../ms201608-2/aha-2017-cfa-slides.pdf)
+  * [e-slides for Poster](../../ms201608-2/aha-2017-cfa-slides.pdf)
 
 ---
 
-## Initial descriptive statistics for entire sample
+### Initial descriptive statistics for entire sample
 
-[Descriptive measures](../ms201608-2/group1.html)
+ - [Descriptive measures](../../ms201608-2/group1.html)
 
 <!--
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: manuscripts
+title: Manuscripts
 permalink: /manuscripts/
 ---
 
