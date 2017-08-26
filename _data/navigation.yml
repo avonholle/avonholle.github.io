@@ -26,6 +26,8 @@ navbars:
         url: /manuscripts/growth-traj/
   - title: Dissertation
     children:
+      - title: "proposal"
+        url: /diss/proposal/
       - title: "manuscript 1"
         url: /diss/ms1-analyses/
       - title: "manuscript 2"
