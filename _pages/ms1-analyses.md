@@ -6,25 +6,25 @@ permalink: /diss/ms1-analyses/
 
 ## 1. Statistical analysis plan
 
-[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sap1.pdf){:target="_blank"} -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sap1.Rmd){:target="_blank"}
+[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sap1.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sap1.Rmd)
 
 <p></p>
 
 ## 2. Data handling scripts
 
-  * [Read in 2014 data -- 5-year old cohort](../../unc-dissertation-markdown-p2/includes/scripts/paper1/Descriptive.Rmd){:target="_blank"}
+  * [Read in 2014 data -- 5-year old cohort](../../unc-dissertation-markdown-p2/includes/scripts/paper1/Descriptive.Rmd)
 
-  * [Read in 2017 data -- 1-year old cohort](../../unc-dissertation-markdown-p2/includes/scripts/paper1/read-phenotypes.Rmd){:target="_blank"}
+  * [Read in 2017 data -- 1-year old cohort](../../unc-dissertation-markdown-p2/includes/scripts/paper1/read-phenotypes.Rmd)
+  
+  * [preliminary descriptive statistics](../../unc-dissertation-markdown-p2/includes/scripts/paper1/descriptive_statistics.Rmd)
 
-  * [preliminary descriptive statistics](../../unc-dissertation-markdown-p2/includes/scripts/paper1/descriptive_statistics.Rmd){:target="_blank"}
-
-  * [data imputation](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table3-data-handle-weight-impute.Rmd){:target="_blank"}
+  * [data imputation](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table3-data-handle-weight-impute.Rmd)
 
 <p></p>
 
 ## 3. Table of descriptive statistics
 
-  * [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1.pdf){:target="_blank"}
+  * [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1.pdf)
 
 <p></p>
 
