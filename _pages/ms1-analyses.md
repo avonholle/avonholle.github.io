@@ -36,21 +36,21 @@ permalink: /diss/ms1-analyses/
 
 ### 5a. First set with a lasso approach to choose subset of confounders
 
-1. [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev/table2-mice.html){:target="_blank"} -- [code](../includes/scripts/paper1/sitar-rev/table2-mice.Rmd)
+1. [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev/table2-mice.html) -- [code](../includes/scripts/paper1/sitar-rev/table2-mice.Rmd)
 
-2. [Results for height](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev/table2-mice-ht.html){:target="_blank"} -- [code](../includes/scripts/paper1/sitar-rev/table2-mice-ht.Rmd)
+2. [Results for height](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev/table2-mice-ht.html) -- [code](../includes/scripts/paper1/sitar-rev/table2-mice-ht.Rmd)
 
-3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev/table2-mice-wfl.html){:target="_blank"} -- [code](../includes/scripts/paper1/sitar-rev/table2-mice-wfl.Rmd)
+3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev/table2-mice-wfl.html) -- [code](../includes/scripts/paper1/sitar-rev/table2-mice-wfl.Rmd)
 
 ### 5b. Same approach as Pizzi 2014
 
 **Paper**: Pizzi, Costanza, Tim J. Cole, Lorenzo Richiardi, Isabel dos-Santos-Silva, Camila Corvalan, and Bianca De Stavola. 2014. “Prenatal Influences on Size, Velocity and Tempo of Infant Growth: Findings from Three Contemporary Cohorts.” Edited by Guoying Wang. PLoS ONE 9 (2): e90291. doi:10.1371/journal.pone.0090291.
 
-1. [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice.html){:target="_blank"} -- [code](../includes/scripts/paper1/table2-mice.Rmd)
+1. [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice.html) -- [code](../includes/scripts/paper1/table2-mice.Rmd)
 
-2. [Results for height](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice-ht.html){:target="_blank"} -- [code](../includes/scripts/paper1/table2-mice-ht.Rmd)
+2. [Results for height](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice-ht.html) -- [code](../includes/scripts/paper1/table2-mice-ht.Rmd)
 
-3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice-wfl.html){:target="_blank"} -- [code](../includes/scripts/paper1/table2-mice-wfl.Rmd)
+3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice-wfl.html) -- [code](../includes/scripts/paper1/table2-mice-wfl.Rmd)
 
 ---
 
