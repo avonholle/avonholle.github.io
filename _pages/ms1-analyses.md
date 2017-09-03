@@ -70,4 +70,6 @@ permalink: /diss/ms1-analyses/
 
 1. [Estimated association between maternal characterisics and child growth parameters -- pooled across sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/assn/models-results-plots-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/assn/models-results-plots-assn.Rmd)
 
-    - **NOTE**: I create the Mplus models with [MplusAutomation in R](../includes/scripts/paper1/lgmm/export-mplus.Rmd) with scripts to create batches of Mplus files that I run on batches of files in virtuallab with an [.R script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/run-models.R).
+### NOTE
+
+I create the Mplus models with [MplusAutomation in R](../includes/scripts/paper1/lgmm/export-mplus.Rmd) with scripts to create batches of Mplus files that I run on batches of files in virtuallab with an [.R script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/run-models.R).
