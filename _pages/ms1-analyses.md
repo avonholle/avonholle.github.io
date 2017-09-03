@@ -56,7 +56,6 @@ permalink: /diss/ms1-analyses/
 
 ## 6. Association between the maternal predictors and latent growth classes with latent class growth mixture models (LGMM)
 
-**NOTE**: I create the Mplus models with [MplusAutomation in R](../includes/scripts/paper1/lgmm/export-mplus.Rmd) with scripts to create batches of Mplus files that I run on batches of files in virtuallab with an [.R script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/run-models.R).
 
 1. [Model fit info -- stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.Rmd)
 
@@ -67,3 +66,5 @@ permalink: /diss/ms1-analyses/
     - [Template used to create Mplus files](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/template_mplus1-bysex.txt)
 
 3. [Estimated association between maternal characterisics and child growth parameters -- pooled across sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/assn/models-results-plots-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/assn/models-results-plots-assn.Rmd)
+
+**NOTE**: I create the Mplus models with [MplusAutomation in R](../includes/scripts/paper1/lgmm/export-mplus.Rmd) with scripts to create batches of Mplus files that I run on batches of files in virtuallab with an [.R script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/run-models.R).
