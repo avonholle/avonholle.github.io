@@ -57,6 +57,7 @@ permalink: /diss/ms1-analyses/
 ## 6. Association between the maternal predictors and latent growth classes with latent class growth mixture models (LGMM)
 
 ### Model fit
+
     1. [Model fit info -- stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.Rmd)
 
       - [Template used to create Mplus files](../includes/scripts/paper1/lgmm/virtuallab/template_mplus1-strat-sex-assn.txt)
