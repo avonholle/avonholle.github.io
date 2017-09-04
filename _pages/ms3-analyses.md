@@ -20,5 +20,7 @@ permalink: /diss/ms3-analyses/
 
 ## 4. LGMM analysis: gene-environment interaction test for SITAR growth parameters and genotype -- CFA distal lipid outcome
 
-[Table 5](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5.Rmd)
+[Table 5, candidate snps](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5.Rmd)
+
+[Table 6, genetic risk score](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table6.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table6.Rmd)
 
