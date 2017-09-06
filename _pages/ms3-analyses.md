@@ -13,12 +13,12 @@ permalink: /diss/ms3-analyses/
 [Tables 2 and 3](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table2.Rmd)
 
 
-## 3. LGMM analysis: gene-environment interaction test for SITAR growth parameters and genotype -- univariate distal lipid outcome
+## 3. LGMM analysis: variation in association between genotype and univariate distal lipid outcome by growth classes
 
 [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.Rmd)
 
 
-## 4. LGMM analysis: gene-environment interaction test for SITAR growth parameters and genotype -- CFA distal lipid outcome
+## 4. LGMM analysis: variation in association between genotype and CFA distal lipid outcome by growth classes
 
 [Table 5, candidate snps](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5.Rmd)
 
