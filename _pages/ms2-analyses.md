@@ -8,7 +8,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## 1. Statistical analysis plan
 
-[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.html){:target="_blank"} -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd){:target="_blank"}
+[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd)
 
 <p></p>
 
@@ -28,13 +28,13 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ### SITAR 
 
-  * [Association between growth parameters and lipids](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.html){:target="_blank"} -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.Rmd)
+  * [Association between growth parameters and lipids](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.Rmd)
 
 ### LGMM
 
-  - [Association between latent growth classes and an observed univariate distal outcome (lipid)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.html){:target="_blank"} -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/ncludes/scripts/paper2/lgmm/virtuallab/distal/univariate/template_mplus2-strat-sex-assn-classes-univ-distal.txt)
+  - [Association between latent growth classes and an observed univariate distal outcome (lipid)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/ncludes/scripts/paper2/lgmm/virtuallab/distal/univariate/template_mplus2-strat-sex-assn-classes-univ-distal.txt)
 
-  - [Association between latent growth classes and a latent distal outcome](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/models-2-results-lc-latent-distal-assn.html){:target="_blank"} -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/models-2-results-lc-latent-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/template_mplus2-strat-sex-assn-classes-latentdistal.txt)
+  - [Association between latent growth classes and a latent distal outcome](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/models-2-results-lc-latent-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/models-2-results-lc-latent-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/template_mplus2-strat-sex-assn-classes-latentdistal.txt)
       * **Note**: Holding the latent distal outcome the same across different latent growth classes. If not employing that assumption then the comparison of associations between growth and the latent distal outcome would be like comparing apples and oranges.
 
   - [Association between growth and latent distal outcomes; no latent growth classes](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/models-2-results-latent-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/models-2-results-latent-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-strat-sex-assn-latentdistal.txt)
