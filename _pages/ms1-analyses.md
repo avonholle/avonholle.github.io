@@ -29,7 +29,7 @@ An overall summary can be found [here](../../unc-dissertation-markdown-p2/includ
 
 ## 3. Table of descriptive statistics
 
-  * [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1.pdf)
+  * [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1.pdf) -- [code](table.Rmd)
 
 <p></p>
 
