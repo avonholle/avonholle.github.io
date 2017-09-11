@@ -26,11 +26,11 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## 4. Association between infant growth and lipid measurements
 
-### SITAR 
+### 4a. SITAR 
 
   * [Association between growth parameters and lipids](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.Rmd)
 
-### LGMM
+### 4b. LGMM
 
   - [Association between latent growth classes and an observed univariate distal outcome (lipid)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/ncludes/scripts/paper2/lgmm/virtuallab/distal/univariate/template_mplus2-strat-sex-assn-classes-univ-distal.txt)
 
@@ -39,5 +39,5 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
   - [Association between growth and latent distal outcomes; no latent growth classes](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/models-2-results-latent-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/models-2-results-latent-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-strat-sex-assn-latentdistal.txt)
 
-      
+
   * **NOTE**: I create the Mplus models with [MplusAutomation in R](../includes/scripts/paper1/lgmm/export-mplus.Rmd) with scripts to create batches of Mplus files that I run in virtuallab with an [.R script](../includes/scripts/paper2/lgmm/virtuallab/run-models.R).
