@@ -27,7 +27,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## Overall summary
 
-[Overall summary of results](overall-summary.html)
+[Overall summary of results](../../unc-dissertation-markdown-p2/includes/scripts/paper2/overall-summary.html)
 
 ## 4. Association between infant growth and lipid measurements
 
