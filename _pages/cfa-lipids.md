@@ -22,6 +22,8 @@ Writing manuscript
 
 [Current draft](../../ms201608-2/ms-201705-draft.html)
 
+[Tables for draft](../../ms201608-2/mplus-results-manuscript.html) -- [code]](../../ms201608-2/mplus-results-manuscript.Rmd)
+
 ### Repo
 
 [https://github.com/avonholle/ms-cfa-lipids](https://github.com/avonholle/ms-cfa-lipids)
