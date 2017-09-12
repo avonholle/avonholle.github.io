@@ -6,6 +6,12 @@ permalink: /diss/ms2-analyses/
 
 Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as an exposure and lipid levels at an average age of 17 years as an outcome. Two different types of analyses will be used to test the hypothesis that extreme levels of infant growth will influence lipid levels in adolescence. First, growth will be characterized by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids. Second, a latent growth mixture model (LGMM) divides growth patterns into distinct 'latent growth classes' that serves as the exposure and the lipids, either as univariate or combined into one latent factor, will serve as the outcome.
 
+
+## Overall summary
+
+[Overall summary of results](../../unc-dissertation-markdown-p2/includes/scripts/paper2/overall-summary.html)
+
+
 ## 1. Statistical analysis plan
 
 [Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd)
@@ -25,9 +31,6 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 <p></p>
 
-## Overall summary
-
-[Overall summary of results](../../unc-dissertation-markdown-p2/includes/scripts/paper2/overall-summary.html)
 
 ## 4. Association between infant growth and lipid measurements
 
