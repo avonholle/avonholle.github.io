@@ -12,6 +12,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 <p></p>
 
+
 ## 2. Data handling scripts
 
 **Note**: data handling done with the [first paper](/diss/ms1-analyses).
@@ -23,6 +24,10 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.Rmd)
 
 <p></p>
+
+## Overall summary
+
+[Overall summary of results](overall-summary.html)
 
 ## 4. Association between infant growth and lipid measurements
 
