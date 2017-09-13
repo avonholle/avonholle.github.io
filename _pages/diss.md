@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Dissertation
+title: Dissertation Aims
 permalink: /diss/
 ---
 
