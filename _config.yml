@@ -17,6 +17,7 @@ repository               : "avonholle/avonholle.github.io"# GitHub username/repo
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+minimal_mistakes_skin    : "sunrise" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
