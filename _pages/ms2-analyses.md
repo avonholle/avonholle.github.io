@@ -8,7 +8,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## AHA Epi/Lifestyle 2018 abstract
 
-[abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.html)
+[abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.docx)
 
 
 ## Overall summary
@@ -44,12 +44,18 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ### 4b. LGMM
 
-  - [Association between latent growth classes and an observed univariate distal outcome (lipid)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/template_mplus2-strat-sex-assn-classes-univ-distal.txt)
+  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-BCH.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-BCH.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/template_mplus2-strat-sex-assn-classes-univ-distal-v2.txt)
+  
+--- 
+
+#### The following sections for LGMM use the default for distal variable and may not have a meaningful interpretation.
+
+  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using default approach for distal variable](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/template_mplus2-strat-sex-assn-classes-univ-distal.txt)
   
   - Follow-up: [Checked overlap between height trajectory analyses for males](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/m2-univ-distal-compare-people-in-classes.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/m2-univ-distal-compare-people-in-classes.Rmd)
   
 
-  - [Association between latent growth classes and a latent distal outcome](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/models-2-results-lc-latent-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/models-2-results-lc-latent-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/template_mplus2-strat-sex-assn-classes-latentdistal.txt)
+  - [Association between latent growth classes and a latent distal outcome -- using default approach](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/models-2-results-lc-latent-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/models-2-results-lc-latent-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/latent-class-and-latent-distal-outcome/template_mplus2-strat-sex-assn-classes-latentdistal.txt)
       * **Note**: Holding the latent distal outcome the same across different latent growth classes. If not employing that assumption then the comparison of associations between growth and the latent distal outcome would be like comparing apples and oranges.
 
   - [Association between growth and latent distal outcomes; no latent growth classes](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/models-2-results-latent-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/models-2-results-latent-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-strat-sex-assn-latentdistal.txt)
