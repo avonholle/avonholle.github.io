@@ -23,6 +23,9 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 ## 4. LGMM analysis: variation in association between genotype and univariate distal lipid outcome by growth classes
 
+[Table 4, revised](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch.Rmd)
+
+
 [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.Rmd)
 
 
