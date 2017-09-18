@@ -25,13 +25,22 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 [Table 4, revised](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch.Rmd)
 
+  - [step 1 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-alt-distal-step1.txt)
+  
+  - [step 3 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-alt-distal-step3.txt)
+  
+<!--# To do: add Mplus templates-->
 
-[Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.Rmd)
+<!--[Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.Rmd)-->
 
 
 ## 5. LGMM analysis: variation in association between genotype and CFA distal lipid outcome by growth classes
 
-[Table 5, candidate snps](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5.Rmd)
+
+[Table 5, candidate snps](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5-3step-bch.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table5-3step-bch.Rmd)
+
+  - [step 3 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-cfa-alt-distal-step3.txt)
+  - NOTE: use the same step 1 template as for section 4 above.
 
 [Table 6, genetic risk score](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table6.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table6.Rmd)
 
