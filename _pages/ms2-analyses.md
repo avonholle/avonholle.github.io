@@ -44,8 +44,14 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ### 4b. LGMM
 
-  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-BCH.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-BCH.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-strat-sex-assn-classes-univ-distal-v2.txt)
+  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-BCH.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-BCH.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-strat-sex-assn-classes-univ-distal-v2.txt)
   
+
+  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/models-2-results-univariate-distal-assn-pooled-du3step.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/models-2-results-univariate-distal-assn-pooled-du3step.Rmd)
+  
+    - [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-pooled-sex-univ-distal-v2.txt)
+
+
 --- 
 
 #### The following sections for LGMM use the default for distal variable and may not have a meaningful interpretation.
