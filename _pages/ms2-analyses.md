@@ -55,7 +55,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 These analyses use the exact same scripts as the prior one except outliers (>3sd of lipid distribution) are excluded (<5% of the data).
 
-  - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.Rmd)
+  - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/restricted/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/restricted/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.Rmd)
 
 #### Stratified by sex of child
 
