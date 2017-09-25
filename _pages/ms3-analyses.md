@@ -24,7 +24,7 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 ### Pooled by sex of child
 
-[Table 4, revised](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch.Rmd)
+[Table 4, revised](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-ms3-3step-bch-pooled.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-ms3-3step-bch-pooled.Rmd)
 
   - [step 1 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-distal-step1-pooled.txt)
   
