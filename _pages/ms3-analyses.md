@@ -22,13 +22,21 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 ## 4. LGMM analysis: variation in association between genotype and univariate distal lipid outcome by growth classes
 
+### Pooled by sex of child
+
 [Table 4, revised](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch.Rmd)
+
+  - [step 1 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-distal-step1-pooled.txt)
+  
+  - [step 3 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-distal-step3-2class-pooled.txt)
+  
+### Sex-stratified
+
+[Table 4, sex stratified](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch-stratify.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-3step-bch-stratify.Rmd)
 
   - [step 1 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-alt-distal-step1.txt)
   
-  - [step 3 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-alt-distal-step3.txt)
-  
-<!--# To do: add Mplus templates-->
+  - [step 3 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-alt-distal-step3-2class.txt)
 
 <!--[Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.Rmd)-->
 

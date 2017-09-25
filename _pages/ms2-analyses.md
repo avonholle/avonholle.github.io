@@ -65,7 +65,7 @@ These analyses use the exact same scripts as the prior one except outliers (>3sd
 
 --- 
 
-#### The following sections for LGMM use the default for distal variable and may not have a meaningful interpretation.
+#### The following sections for LGMM use the default for distal variable (one-step method) and may not have a meaningful interpretation.
 
   - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using default approach for distal variable](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/models-2-results-univariate-distal-assn.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/template_mplus2-strat-sex-assn-classes-univ-distal.txt)
   
