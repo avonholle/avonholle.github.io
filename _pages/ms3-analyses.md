@@ -14,9 +14,9 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 1. [script to read in vcf data on longleaf and extract relevant snps](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/read-vcf-snps.R)
 
-2. [script to summarize snp data](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/look-vcf-snps.Rmd)
+<!--2. [script to summarize snp data](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/look-vcf-snps.Rmd)-->
 
-3. [Information for genetic risk score -- data handling and list of variants](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/look-vcf-snps.Rmd)
+2. [Information for genetic risk score -- data handling and list of variants](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/snp-description.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/snp-description.Rmd)
 
 
 ## 3. SITAR analysis: gene-environment interaction test for SITAR growth parameters and genotype
