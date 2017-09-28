@@ -24,6 +24,7 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 2. [Information for genetic risk score -- data handling and list of variants](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/snp-description.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/snp-description.Rmd)
 
+3. [Power calcs for marginal effects](../../unc-dissertation-markdown-public/includes/scripts/power/aim3/power-calcs-ind-assoc.html) -- [code](../../unc-dissertation-markdown-public/includes/scripts/power/aim3/power-calcs-ind-assoc.Rmd)
 
 ## 3. SITAR analysis: gene-environment interaction test for SITAR growth parameters and genotype
 
