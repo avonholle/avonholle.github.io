@@ -12,6 +12,10 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 [abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.docx)
 
 
+## Overall summary
+
+[Overall summary of results](../../unc-dissertation-markdown-p2/includes/scripts/paper3/overall-summary.html)
+
 ## 1. Statistical analysis plan
 
 [Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper3/sap3.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper3/sap3.Rmd)
@@ -49,9 +53,8 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
   
   - [step 3 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/lgmm/virtuallab/distal/template-m3-mplus-univ-alt-distal-step3-2class.txt)
 
-<!--[Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4.Rmd)-->
 
-
+<!--
 ## 5. LGMM analysis: variation in association between genotype and CFA distal lipid outcome by growth classes
 
 
@@ -61,4 +64,4 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
   - NOTE: use the same step 1 template as for section 4 above.
 
 [Table 6, genetic risk score](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table6-3step-bch.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table6-3step-bch.Rmd)
-
+-->
