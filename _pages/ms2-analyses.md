@@ -6,60 +6,66 @@ permalink: /diss/ms2-analyses/
 
 Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as an exposure and lipid levels at an average age of 17 years as an outcome. Two different types of analyses will be used to test the hypothesis that extreme levels of infant growth will influence lipid levels in adolescence. First, growth will be characterized by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids. Second, a latent growth mixture model (LGMM) divides growth patterns into distinct 'latent growth classes' that serves as the exposure and the lipids, either as univariate or combined into one latent factor, will serve as the outcome.
 
-## AHA Epi/Lifestyle 2018 abstract
+# AHA Epi/Lifestyle 2018 abstract
 
 [abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.docx)
 
 
-## Overall summary
+# Overall summary
 
 [Overall summary of results](../../unc-dissertation-markdown-p2/includes/scripts/paper2/overall-summary.html)
 
 
-## 1. Statistical analysis plan
+# 1. Statistical analysis plan
 
 [Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd)
 
 <p></p>
 
 
-## 2. Data handling scripts
+# 2. Data handling scripts
 
 **Note**: data handling done with the [first paper](/diss/ms1-analyses).
 
 <p></p>
 
-## 3. Table of descriptive statistics
+# 3. Table of descriptive statistics
 
 [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.Rmd)
 
 <p></p>
 
 
-## 4. Association between infant growth and lipid measurements
+# 4. Association between infant growth and lipid measurements
 
-### 4a. SITAR 
+## 4a. SITAR 
 
   * [Association between growth parameters and lipids](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.Rmd)
 
-### 4b. LGMM
+## 4b. LGMM
 
 
-#### Pooled by sex of child
+* Pooled by sex of child
 
-  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/models-2-results-univariate-distal-assn-pooled-du3step.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/models-2-results-univariate-distal-assn-pooled-du3step.Rmd)
+    - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/models-2-results-univariate-distal-assn-pooled-du3step.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/models-2-results-univariate-distal-assn-pooled-du3step.Rmd)
   
     - [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-pooled-sex-univ-distal-v2.txt)
     
-#### 4b addendum. pooled by sex of child with data subset
+      * Sensitivity analysis. Subset of data.
 
-These analyses use the exact same scripts as the prior one except outliers (>3sd of lipid distribution) are excluded (<5% of the data).
+          * These analyses use the exact same scripts as the prior one except outliers (>3sd of lipid distribution) are excluded (<5% of the data).
 
-  - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/restricted/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/restricted/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.Rmd)
+          - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.Rmd)
 
-#### Stratified by sex of child
+* Stratified by sex of child
 
-  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-BCH.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-BCH.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-strat-sex-assn-classes-univ-distal-v2.txt)
+    - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-du3step.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/models-2-results-univariate-distal-assn-du3step.Rmd) -- [Template used to create Mplus .inp files](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/template_mplus2-strat-sex-assn-classes-univ-distal-v2.txt)
+
+      * Sensitivity analysis. Subset of data.
+
+          * These analyses use the exact same scripts as the prior one except outliers (>3sd of lipid distribution) are excluded (<5% of the data).
+
+          - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sensitivity.Rmd)
   
 
 <!--
