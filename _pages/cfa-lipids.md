@@ -20,7 +20,7 @@ Writing manuscript
 
 ### Manuscript draft
 
-[Current draft - html](../../ms201608-2/ms-201705-draft.html) -- [current draft - .doc](../../ms201608-2/ms-201705-draft.docx)
+[Current draft, html](../../ms201608-2/ms-201705-draft.html) -- [current draft, Word version](../../ms201608-2/ms-201705-draft.docx)
 
 [Tables for draft](../../ms201608-2/mplus-results-manuscript.html) -- [code](../../ms201608-2/mplus-results-manuscript.Rmd)
 
