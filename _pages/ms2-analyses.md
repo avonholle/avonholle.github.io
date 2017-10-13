@@ -63,8 +63,8 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
           
               - Templates used to create Mplus .inp files
               
-                  - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templatestemplate_mplus2-step1-pooled-ratio.txt)
-                  - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/template_mplus2-step3-2-class-pooled-ratio.txt)
+                  - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-pooled-ratio.txt)
+                  - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-pooled-ratio.txt)
               
 
 * Stratified by sex of child
@@ -83,8 +83,8 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
           
               - Templates used to create Mplus .inp files
               
-                  - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templatestemplate_mplus2-step1-strat-ratio.txt)
-                  - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/template_mplus2-step3-2-class-strat-ratio.txt)
+                  - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
+                  - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio.txt)
               
 
 <!--
