@@ -31,7 +31,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 # 3. Table of descriptive statistics
 
-[Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.Rmd)
+[Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.Rmd)
 
 <p></p>
 
