@@ -37,7 +37,7 @@ An overall summary can be found [here](../../unc-dissertation-markdown-p2/includ
 
   * [Results for model fit for weight, height and wfl outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table3-w-fcns.pdf){:target="_blank"} -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table3-w-fcns.Rmd)
 
-## 5. Association between the maternal predictors and infant growth through random effects from SITAR
+## 5. Association between sociodemographic predictors and infant growth through random effects from SITAR
 
 ### 5a. First set with a lasso approach to choose subset of confounders
 
