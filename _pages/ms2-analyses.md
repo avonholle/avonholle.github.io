@@ -57,6 +57,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
           - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sens.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sens.Rmd)
 -->          
+
       * TG / HDL ratios and TG-HDL correlations
       
           - [Table of estimated tg/hdl ratios and correlations for pooled sample](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-pooled-bch-ratio.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-pooled-bch-ratio.Rmd)
@@ -78,6 +79,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
           - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/sensitivity/models-2-results-univariate-distal-assn-du3step-sens.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/sensitivity/models-2-results-univariate-distal-assn-du3step-sens.Rmd)
 -->
+
       * TG / HDL ratios and TG-HDL correlations
       
           - [Table of estimated tg/hdl ratios and correlations for stratified sample](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio.Rmd)
