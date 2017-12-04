@@ -16,7 +16,7 @@ permalink: /diss/proposal/
 - see [this link](../../unc-dissertation-markdown/editing/) for details on the editing process (also in menu)
 
 1. google docs draft (please email for link to edit)
-2. [Formatted dissertation proposal DRAFT (.pdf)](../../unc-dissertation-markdown/dissertation-proposal.pdf)
+2. [Formatted dissertation proposal DRAFT (.pdf)](../../unc-dissertation-markdown/dissertation-proposal.pdf) -- [.html](../../unc-dissertation-markdown/dissertation-proposal.html)
 
   - If you need a Word version of this draft just open the pdf in Word 2016 or ask me and I can create one for you. I will most likely use [Adobe Acrobat Pro DC](https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html){:target="_blank"} to export the pdf to Word format.
     

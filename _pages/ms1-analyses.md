@@ -39,7 +39,16 @@ An overall summary can be found [here](../../unc-dissertation-markdown-p2/includ
 
 ## 5. Association between sociodemographic predictors and infant growth through random effects from SITAR
 
-### 5a. First set with a lasso approach to choose subset of confounders
+### 5a. First, infancy cohort (full sample) with lasso point estimates
+
+1. [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice.Rmd)
+
+2. [Results for height](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-ht.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice-ht.Rmd)
+
+3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-wfl.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice-wfl.Rmd)
+
+
+### 5b. Subset (year 17 cohort) with a lasso approach to choose subset of confounders
 
 1. [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev/table2-mice.html) -- [code](../includes/scripts/paper1/sitar-rev/table2-mice.Rmd)
 
@@ -47,7 +56,7 @@ An overall summary can be found [here](../../unc-dissertation-markdown-p2/includ
 
 3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev/table2-mice-wfl.html) -- [code](../includes/scripts/paper1/sitar-rev/table2-mice-wfl.Rmd)
 
-### 5b. Same approach as Pizzi 2014 **[no longer using these results. For reference only.]**
+### 5c. Same approach as Pizzi 2014 **[no longer using these results. For reference only.]** with subset (year 17 cohort)
 
 **Paper**: Pizzi, Costanza, Tim J. Cole, Lorenzo Richiardi, Isabel dos-Santos-Silva, Camila Corvalan, and Bianca De Stavola. 2014. “Prenatal Influences on Size, Velocity and Tempo of Infant Growth: Findings from Three Contemporary Cohorts.” Edited by Guoying Wang. PLoS ONE 9 (2): e90291. doi:10.1371/journal.pone.0090291.
 
