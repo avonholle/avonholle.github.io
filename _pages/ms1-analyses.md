@@ -29,7 +29,10 @@ An overall summary can be found [here](../../unc-dissertation-markdown-p2/includ
 
 ## 3. Table of descriptive statistics
 
-  * [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1.Rmd)
+  * [Table 1, for full infancy cohort](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1-rev.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1-rev.Rmd)
+
+
+  * [Table 1, for age 17 cohort subset](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1.Rmd)
 
 <p></p>
 
