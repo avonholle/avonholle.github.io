@@ -10,7 +10,8 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 
 ## Manuscript draft
 
-[draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)  -- [draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx) 
+[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)  
+
 
 ## 1. Statistical analysis plan
 
