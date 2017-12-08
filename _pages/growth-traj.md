@@ -28,7 +28,7 @@ Submitted to Annals of Epidemiology
 
 # Results
 
-[Separate page for results](../ms-2015-05-revise1/results){:target="_blank"}
+[Separate page for results](../../ms-2015-05-revise1/results){:target="_blank"}
   
 
 
