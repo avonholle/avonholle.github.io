@@ -24,7 +24,7 @@ Working on resubmission to Annals of Epidemiology
 
   * [tables](../../ms-2015-05-revise1/results/revise/ms-tables-girls.pdf) 
   * [figure](../../ms-2015-05-revise1/results/revise/ms-figure-girls.pdf) 
-  * [appendix](../../ms-2015-05-revise1/appendix.pdf) (Note: still need to re-do)
+  * [appendix](../../ms-2015-05-revise1/results/revise/appendix.pdf) (Note: still working on results for males.)
     
 <!--    [Recent draft](../../ms-2015-05-revise1/manuscript.pdf) 
 
