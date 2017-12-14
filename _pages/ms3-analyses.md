@@ -11,10 +11,11 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 [abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.docx)
 
-
+<!--
 ## Overall summary
 
 [Overall summary of results](../../unc-dissertation-markdown-p2/includes/scripts/paper3/overall-summary.html)
+-->
 
 ## 1. Statistical analysis plan
 
