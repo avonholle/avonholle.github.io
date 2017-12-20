@@ -33,6 +33,10 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 
 ## 3. Table of descriptive statistics
 
+  * [Formatted tables 1-4 for manuscript (pdf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/tables-ms.Rmd)
+  
+    * [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-wfl-ms.Rmd)
+
   * [Table 1, for full infancy cohort](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1-rev.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table1-rev.Rmd)
 
 
