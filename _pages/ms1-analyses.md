@@ -43,6 +43,8 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 ## 4. Evaluate model fit for the SITAR models
 
   * [Results for model fit for weight, height and wfl outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table3-w-fcns.pdf){:target="_blank"} -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table3-w-fcns.Rmd)
+  
+  * [Formatted table of BIC for SITAR models in full sample](../../unc-dissertation-markdown-p2/includes/scripts/paper1/appendix-table.pdf)
 
 ## 5. Association between sociodemographic predictors and infant growth through random effects from SITAR
 
