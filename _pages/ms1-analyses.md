@@ -50,11 +50,15 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 
 ### 5a. First, infancy cohort (full sample) with lasso point estimates
 
-1. [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice.Rmd)
+* [Formatted tables 1-4 for manuscript (pdf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/tables-ms.Rmd)
+  
+    * Code: [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-wfl-ms.Rmd)
 
-2. [Results for height](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-ht.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice-ht.Rmd)
+* [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice.Rmd)
 
-3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-wfl.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice-wfl.Rmd)
+* [Results for height](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-ht.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice-ht.Rmd)
+
+* [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev4/table2-mice-wfl.html) -- [code](../includes/scripts/paper1/sitar-rev4/table2-mice-wfl.Rmd)
 
 
 ### 5b. Subset (year 17 cohort) with a lasso approach to choose subset of confounders
