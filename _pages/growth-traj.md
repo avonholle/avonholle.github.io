@@ -6,11 +6,11 @@ permalink: /manuscripts/growth-traj/
 
 # Title
 
-Pitfalls in standardizing outcome when assessing weight change differences across exposure groups.
+Analytic perils when standardizing infant weight to assess weight change differences across exposure groups.
 
 # Status
 
-Submitted to Annals of Epidemiology
+Working on resubmission to Annals of Epidemiology
 
 
 # Statistical Analysis Plan (SAP)
@@ -18,7 +18,19 @@ Submitted to Annals of Epidemiology
 
 # Manuscript draft
 
-[Recent draft](../../ms-2015-05-revise1/manuscript.pdf) -- [tables](../../ms-2015-05-revise1/ms-tables-girls.pdf) -- [figure](../../ms-2015-05-revise1/ms-figure-girls.pdf) -- [appendix](../../ms-2015-05-revise1/appendix.pdf)
+## Revisions, 2017-12
+
+[Recent draft](../../ms-2015-05-revise1/results/revise/manuscript-rev.docx) 
+
+  * [tables](../../ms-2015-05-revise1/results/revise/ms-tables-girls.pdf) 
+  * [figure](../../ms-2015-05-revise1/results/revise/ms-figure-girls.pdf) 
+  * [appendix](../../ms-2015-05-revise1/results/revise/appendix.pdf) (Note: still working on results for males.)
+    
+<!--    [Recent draft](../../ms-2015-05-revise1/manuscript.pdf) 
+
+    * [tables](../../ms-2015-05-revise1/ms-tables-girls.pdf) 
+    * [figure](../../ms-2015-05-revise1/ms-figure-girls.pdf) 
+    * [appendix](../../ms-2015-05-revise1/appendix.pdf) -->
 
 # Code repository
 
@@ -28,7 +40,7 @@ Submitted to Annals of Epidemiology
 
 # Results
 
-[Separate page for results](../ms-2015-05-revise1/results){:target="_blank"}
+[Separate page for results](../../ms-2015-05-revise1/results){:target="_blank"}
   
 
 
