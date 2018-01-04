@@ -6,11 +6,15 @@ permalink: /diss/ms1-analyses/
 
 Analyses for manuscript 1 examines the association between prenatal predictors and infant physical growth from months 0 to 5 as an outcome. Two different types of analyses will be used to examine this association. First, growth will be characterized by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids. Second, a latent growth mixture model (LGMM) divides growth patterns into distinct 'latent growth classes' that serves as the outcome regressed onto the prenatal predictors.
 
+# SER 2018 abstract
+
+[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)  
+
 <!--An overall summary can be found [here](../../unc-dissertation-markdown-p2/includes/scripts/paper1/overall-summary.html).-->
 
 ## Manuscript draft
 
-[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)  
+[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.docx) -- [link to google doc for editing](https://docs.google.com/document/d/1cz2wNXp2VFLM3jG2q8v4F7hbK9Upsk_1_Y2BdhTi3pk/edit?usp=sharing)
 
 
 ## 1. Statistical analysis plan
