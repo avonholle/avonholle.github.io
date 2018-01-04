@@ -18,7 +18,7 @@ Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/profes
 
 ### Statistical Analysis Plan (SAP)
 
-[SAP with draft abstract](../ms-201608-1/StatisticalAnalysisPlan.html)
+[SAP with draft abstract](../../ms-201608-1/StatisticalAnalysisPlan.html)
 
 ### Manuscript draft
 
@@ -34,13 +34,13 @@ Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/profes
 
 ### Poster for AHA 2017 EPID/Lifestyle conference
 
-[Poster](../ms-201608-1/aha-2017-slcs.pdf)
+[Poster](../../ms-201608-1/aha-2017-slcs.pdf)
 
-[Slides for poster](../ms-201608-1/aha-2017-slcs-slides.pdf)
+[Slides for poster](../../ms-201608-1/aha-2017-slcs-slides.pdf)
 
 ### Results
 
-[Preliminary summary of results](../ms-201608-1/analysis-summary.pdf)
+[Preliminary summary of results](../../ms-201608-1/analysis-summary.pdf)
 
 <!--
 ## Prep work for December 2016 presentation
@@ -50,8 +50,8 @@ Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/profes
 
 ### Additional information
 
-1. [information on the phenotype](../ms-201608-1/phenotype-file.html)
+1. [information on the phenotype](../../ms-201608-1/phenotype-file.html)
 
-2. [.csv file of snps](../ms-201608-1/lipid-snps.txt)
+2. [.csv file of snps](../../ms-201608-1/lipid-snps.txt)
 
-3. [List of snps for study and code used to generate list](../ms-201608-1/snp-list.html)
+3. [List of snps for study and code used to generate list](../../ms-201608-1/snp-list.html)
