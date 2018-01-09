@@ -8,7 +8,7 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 
 # SER 2018 abstract
 
-[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER2018-abstract-ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER2018-abstract-ms1.docx) -- [link to google doc for editing](https://docs.google.com/document/d/1cz2wNXp2VFLM3jG2q8v4F7hbK9Upsk_1_Y2BdhTi3pk/edit?usp=sharing)
+[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.docx) -- [link to google doc for editing](https://docs.google.com/document/d/1cz2wNXp2VFLM3jG2q8v4F7hbK9Upsk_1_Y2BdhTi3pk/edit?usp=sharing)
 
 
 <!--An overall summary can be found [here](../../unc-dissertation-markdown-p2/includes/scripts/paper1/overall-summary.html).-->
