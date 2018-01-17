@@ -243,6 +243,13 @@ defaults:
       layout: single
       sidebar:
         nav: "nvbars"
+- scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "nvbars"
   # _posts
   - scope:
       path: ""
