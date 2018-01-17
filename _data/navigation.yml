@@ -31,7 +31,7 @@ nvbars:
       - title: "manuscript 1"
         url: /diss/ms1-analyses/
       - title: "manuscript 2"
-        url: /diss/ms2-analyses/
+        url: diss/ms2-analyses/
       - title: "manuscript 3"
         url: /diss/ms3-analyses/
   - title: Postdoctoral proposal
