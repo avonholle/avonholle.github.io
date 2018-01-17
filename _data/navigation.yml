@@ -14,7 +14,7 @@ main:
   #   url: /sitemap/
 
 # navbars
-navbars:
+nvbars:
   - title: Graduate school work
   - title: Manuscripts
     children:
