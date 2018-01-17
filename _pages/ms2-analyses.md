@@ -10,7 +10,6 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 [abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.docx)
 
-
 <!--
 # Overall summary
 
@@ -22,7 +21,6 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 [Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd)
 
 <p></p>
-
 
 # 2. Data handling scripts
 
