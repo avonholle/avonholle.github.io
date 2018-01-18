@@ -43,9 +43,10 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## 4b. LGMM
 
+
 ### Pooled by sex of child
 
-    - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using BCH 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read.Rmd)
+  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using BCH 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read.Rmd)
   
    - Templates used to create Mplus .inp files
         - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-pooled-univ.txt)
