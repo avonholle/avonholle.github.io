@@ -43,7 +43,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## 4b. LGMM
 
-* Pooled by sex of child
+### Pooled by sex of child
 
     - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using BCH 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read.Rmd)
   
@@ -78,18 +78,18 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
         - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-pooled-ratio-noadjust.txt)
         
 
-* Stratified by sex of child
+### Stratified by sex of child
 
-  - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-strat.Rmd)
+- [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-strat.Rmd)
 
-Templates used to create Mplus .inp files
+  - Templates used to create Mplus .inp files
     - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
     - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio.txt)
     
 
-  - [Unadjusted association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-unadj-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-unadj-strat.Rmd)
+- [Unadjusted association between latent growth classes and an observed univariate distal outcome (lipid) -- Using 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-unadj-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-unadj-strat.Rmd)
 
-Templates used to create Mplus .inp files
+  - Templates used to create Mplus .inp files
     - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
     - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio-noadjust.txt)
 
@@ -101,19 +101,19 @@ Templates used to create Mplus .inp files
           - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/sensitivity/models-2-results-univariate-distal-assn-du3step-sens.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/sensitivity/models-2-results-univariate-distal-assn-du3step-sens.Rmd)
 -->
 
-  * TG / HDL ratios and TG-HDL correlations
+- TG / HDL ratios and TG-HDL correlations
       
-    - [Estimated tg/hdl ratios and correlations for stratified sample, adjusted](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio.Rmd)
+  - [Estimated tg/hdl ratios and correlations for stratified sample, adjusted](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio.Rmd)
           
-    - Templates used to create Mplus .inp files
-        - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
-        - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio.txt)
+  - Templates used to create Mplus .inp files
+    - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
+    - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio.txt)
               
-    - [Unadjusted estimates of tg/hdl ratios and correlations for stratified sample](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio-unadj.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio-unadj.Rmd)
+  - [Unadjusted estimates of tg/hdl ratios and correlations for stratified sample](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio-unadj.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/models-2-results-univariate-distal-assn-strat-bch-ratio-unadj.Rmd)
           
-      - Templates used to create Mplus .inp files
-        - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
-        - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio-noadjust.txt)
+  - Templates used to create Mplus .inp files
+    - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
+    - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio-noadjust.txt)
 
 <!--
 #### The following sections for LGMM use the default for distal variable (one-step method) and may not have a meaningful interpretation.
