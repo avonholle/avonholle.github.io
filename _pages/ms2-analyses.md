@@ -43,6 +43,11 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## 4b. LGMM
 
+### Tables for manuscript
+
+- [Pooled sample](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/table2-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/table2-ms.Rmd)
+
+- [Stratified sample](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/table2-strat-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/table2-strat-ms.Rmd)
 
 ### Pooled by sex of child
 
