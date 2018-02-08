@@ -1,6 +1,6 @@
 ---
 layout: single
-title : analyses for manuscript 3
+title : Infant growth as an effect modifier of genetic-lipid associations: evidence from a Chilean infancy cohort
 permalink: /diss/ms3-analyses/
 ---
 

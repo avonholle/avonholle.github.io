@@ -1,6 +1,6 @@
 ---
 layout: single
-title : analyses for manuscript 1
+title : analyses for manuscript 1: Sociodemographic predictors of early postnatal growth
 permalink: /diss/ms1-analyses/
 ---
 
