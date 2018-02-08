@@ -1,6 +1,6 @@
 ---
 layout: single
-title : analyses for manuscript 2: Infant Growth Trajectories and Lipid Levels in Adolescence: Evidence from a Chilean Infancy Cohort
+title : analyses for manuscript 2 -- Infant Growth Trajectories and Lipid Levels in Adolescence\: Evidence from a Chilean Infancy Cohort
 permalink: /diss/ms2-analyses/
 ---
 
