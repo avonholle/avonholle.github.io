@@ -13,6 +13,8 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 # Manuscript
 
+Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.pdf) -- [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.html)
+
 [Tables and figures](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/tables-ms.Rmd) 
 
 <!--
