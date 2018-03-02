@@ -15,7 +15,13 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 
 ## Manuscript draft
 
-[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)
+Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.pdf) -- [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)
+
+* [Formatted tables 1-4 for manuscript (pdf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)
+  
+    - Code: [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-wfl-ms.Rmd)
+
+
 
 ## 1. Statistical analysis plan
 
@@ -54,9 +60,6 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 
 ### 5a. First, infancy cohort (full sample) with lasso point estimates
 
-* [Formatted tables 1-4 for manuscript (pdf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)
-  
-    * Code: [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-wfl-ms.Rmd)
 
 * [Results for weight](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice.html) -- [code](../includes/scripts/paper1/sitar-rev5/table2-mice.Rmd)
 
