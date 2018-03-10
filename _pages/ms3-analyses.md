@@ -40,6 +40,9 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 *NOTE*: The significant results have somewhat sparse cell counts and should be considered with caution. See [this document](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/compile-mplus/m3-check-results.html) for cell frequencies by most likely latent class and allele counts for the significant associations.
 
+[Results, .pdf](../../unc-dissertation-markdown-p2/includes/scripts/paper3/ms3-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)
+
+<!--
 ### Pooled by sex of child
 
 [Table 4, revised](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-ms3-3step-bch-pooled.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table4-ms3-3step-bch-pooled.Rmd)
@@ -78,7 +81,7 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
   - [step 1 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/compile/mplus-tempates/strat-adj/template-m3-mplus-univ-alt-distal-step1-adj.txt)
   
   - [step 3 Mplus template](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/compile/mplus-tempates/strat-adj/template-m3-mplus-univ-alt-distal-step3-2class-adj.txt)
-
+-->
 
 <!--
 ## 5. LGMM analysis: variation in association between genotype and CFA distal lipid outcome by growth classes
