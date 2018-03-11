@@ -56,6 +56,10 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
 
 ## 4b. LGMM
 
+
+[Results, .pdf](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.Rmd)
+
+
 <!--
 ### Tables for manuscript
 
@@ -64,7 +68,7 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
 - [Stratified sample](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/table2-strat-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/table2-strat-ms.Rmd)
 -->
 
-
+<!--
 ### Pooled by sex of child
 
 - [Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using BCH 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read.Rmd)
@@ -80,6 +84,8 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
         - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-pooled-bch-noadjust.txt)
         - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-pooled-univ.txt)
         
+-->
+        
 <!--      * Sensitivity analysis. Subset of data.
 
           * These analyses use the exact same scripts as the prior one except outliers (>3sd of lipid distribution) are excluded (<5% of the data).
@@ -87,6 +93,7 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
           - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Pooled by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sens.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2-pooled/sensitivity/models-2-results-univariate-distal-assn-pooled-du3step-sens.Rmd)
 -->          
 
+<!--
 ---
 
 * TG / HDL ratios and TG-HDL correlations
@@ -116,6 +123,8 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
   - Templates used to create Mplus .inp files
     - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
     - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio-noadjust.txt)
+-->
+
 
 <!--
       * Sensitivity analysis. Subset of data.
@@ -125,7 +134,7 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
           - [Restricted analyses: Association between latent growth classes and an observed univariate distal outcome (lipid) -- Using DU3step 3-step approach for distal variable. Stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/sensitivity/models-2-results-univariate-distal-assn-du3step-sens.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/lgmm/virtuallab/distal/univariate/v2/sensitivity/models-2-results-univariate-distal-assn-du3step-sens.Rmd)
 -->
 
----
+<!--
 
 - TG / HDL ratios and TG-HDL correlations
       
@@ -140,6 +149,7 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
     - Templates used to create Mplus .inp files
       - [Step 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step1-strat-ratio.txt)
       - [Step 3](../../unc-dissertation-markdown-p2/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates/template_mplus2-step3-2-class-strat-ratio-noadjust.txt)
+-->
 
 <!--
 #### The following sections for LGMM use the default for distal variable (one-step method) and may not have a meaningful interpretation.
