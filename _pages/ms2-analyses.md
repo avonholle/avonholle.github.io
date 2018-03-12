@@ -59,6 +59,11 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
 
 [Results, .pdf](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.Rmd)
 
+## 5. Misc
+
+[Check association between breastfeeding status and lipid outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.Rmd)
+
+
 
 <!--
 ### Tables for manuscript
