@@ -7,9 +7,13 @@ permalink: /diss/ms3-analyses/
 Aim 3 of my dissertation examines the associations between lipid SNPs and lipids conditional on growth classes. In this framework the growth classes function as effect modifiers of the SNP-lipid association. Both candidate lipid SNPs, chosen on the basis of marginal effects with adequate power, as well genetic risk scores will be covariates in the models. To characterize infant body size change I will use two analytic approaches as in aims 1 and 2: nonlinear mixed effects (SITAR) and latent growth mixture models (LGMM).
 
 
-## AHA Epi/Lifestyle 2018 abstract
+## AHA Epi/Lifestyle 2018
 
-[abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.docx)
+[Poster](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/aha-m3-20180314-poster-update.pdf)
+
+[Submitted abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.docx)
+
+
 
 <!--
 ## Overall summary
