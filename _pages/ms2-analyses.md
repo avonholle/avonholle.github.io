@@ -10,14 +10,15 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 [abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.docx)
 
+[slides](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/slides-growth-lipid-levels.pdf)
 
 # Manuscript
 
-Draft manuscript in [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/infant-growth-trajectories.pdf)
+[Draft, word format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.docx) -- [draft, pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.pdf) -- [draft, html format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.html)
 
- [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.pdf) -- [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.html)
-
-[Tables and figures, html version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.Rmd) 
+<!--
+[Tables and figures, html version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.Rmd)  
+-->
 
 [Tables and figures, pdf version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.Rmd) 
 
@@ -57,7 +58,6 @@ Draft manuscript in [pdf format](../../unc-dissertation-markdown-p2/includes/scr
   * [Association between growth parameters and lipids](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/initial-m2.Rmd)
 
 ## 4b. LGMM
-
 
 [Results, .pdf](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.Rmd)
 
