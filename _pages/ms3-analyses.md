@@ -9,7 +9,7 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 ## AHA Epi/Lifestyle 2018
 
-[Poster](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/aha-m3-20180314-poster-update.pdf)
+[Poster](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/m3-infant-growth-effect-poster.pdf)
 
 [Submitted abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.docx)
 
