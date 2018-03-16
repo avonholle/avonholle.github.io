@@ -52,10 +52,12 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
 
 ## 4. Evaluate model fit for the SITAR models
 
-  * [Results for model fit for weight, height and wfl outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table3-w-fcns.pdf){:target="_blank"} -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table3-w-fcns.Rmd)
+  * [Results for model fit for weight, height and wfl outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper1/model-fit/table3-w-fcns.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/model-fit/table3-w-fcns.Rmd)
   
   * [Formatted table of BIC for SITAR models in full sample](../../unc-dissertation-markdown-p2/includes/scripts/paper1/appendix-table.pdf)
 
+
+<!--
 ## 5. Association between sociodemographic predictors and infant growth through random effects from SITAR
 
 ### 5a. First, infancy cohort (full sample) with lasso point estimates
@@ -100,6 +102,8 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
   
         - [Template used to create Mplus files](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/template_mplus1-pooled-fit.txt)
 
+-->
+
 <!-- The following scripts didn't adjust for sex -- just pooled
 
 2. [Model fit info -- pooled across sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/adj-sex/summarize-mplus-results.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/adj-sex/summarize-mplus-results.Rmd)
@@ -107,6 +111,7 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
       - [Template used to create Mplus files](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/template_mplus1-bysex.txt)
 -->
 
+<!--
 ### 6b. Association estimates
 
 1. [Estimated association between maternal characterisics and child growth parameters -- pooled across sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/assn/models-results-plots-assn.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/assn/models-results-plots-assn.Rmd)
@@ -114,3 +119,5 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
 ### NOTE
 
 I create the Mplus models with [MplusAutomation in R](../includes/scripts/paper1/lgmm/export-mplus.Rmd) with scripts to create batches of Mplus files that I run on batches of files in virtuallab with an [.R script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/run-models.R).
+
+-->
