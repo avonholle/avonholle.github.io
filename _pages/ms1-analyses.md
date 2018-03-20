@@ -13,7 +13,7 @@ Another type of analysis was the latent growth mixture model (LGMM), which divid
 
 [Google docs source document for manuscript](https://docs.google.com/document/d/1sqjSOwP_TUdE20elaogdvLT-J9tWwCOA5NEZTfCg3X0/edit?usp=sharing)
 
-Note: I use this google doc as my source to create the following files using Rmarkdown.
+Note: I use this google doc as my source to create the following files using Rmarkdown as shown [here](/misc/edits/).
 
 Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.pdf) -- [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)
 
