@@ -60,9 +60,7 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
 
 ## 4. Evaluate model fit for the SITAR models
 
-  * [Results for model fit for weight, height and wfl outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper1/model-fit/table3-w-fcns.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/model-fit/table3-w-fcns.Rmd)
-  
-  * [Formatted table of BIC for SITAR models in full sample](../../unc-dissertation-markdown-p2/includes/scripts/paper1/appendix-table.pdf)
+  * [Results for model fit for weight, height and wfl outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/fit-summary.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/fit-summary.Rmd)
 
 
 <!--
