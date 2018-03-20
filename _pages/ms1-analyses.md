@@ -15,6 +15,8 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 
 ## Manuscript draft
 
+[Source document for manuscript](https://docs.google.com/document/d/1sqjSOwP_TUdE20elaogdvLT-J9tWwCOA5NEZTfCg3X0/edit?usp=sharing)
+
 Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.pdf) -- [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)
 
 * [Formatted tables 1-4 for manuscript (pdf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)
