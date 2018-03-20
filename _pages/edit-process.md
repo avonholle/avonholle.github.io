@@ -7,4 +7,4 @@ permalink: /misc/edits/
 I use the following editing process to draft manuscripts:
 
 
-![../../unc-dissertation-markdown-p2/includes/figures/editing-flow-chart.png]
+![Editing process](../../unc-dissertation-markdown-p2/includes/figures/editing-flow-chart.png)
