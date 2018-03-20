@@ -8,16 +8,12 @@ Analyses for manuscript 1 examines the association between prenatal predictors a
 
 Another type of analysis was the latent growth mixture model (LGMM), which divides growth patterns into distinct 'latent growth classes' that serves as the outcome regressed onto the prenatal predictors. Given the complexity of the models, we decided to only include the SITAR results to simplify the manuscript.
 
-# SER 2018 abstract
 
-[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.docx) -- [link to google doc for editing](https://docs.google.com/document/d/1cz2wNXp2VFLM3jG2q8v4F7hbK9Upsk_1_Y2BdhTi3pk/edit?usp=sharing)
+# Manuscript draft
 
+[Google docs source document for manuscript](https://docs.google.com/document/d/1sqjSOwP_TUdE20elaogdvLT-J9tWwCOA5NEZTfCg3X0/edit?usp=sharing)
 
-<!--An overall summary can be found [here](../../unc-dissertation-markdown-p2/includes/scripts/paper1/overall-summary.html).-->
-
-## Manuscript draft
-
-[Source document for manuscript](https://docs.google.com/document/d/1sqjSOwP_TUdE20elaogdvLT-J9tWwCOA5NEZTfCg3X0/edit?usp=sharing)
+Note: I use this google doc as my source to create the following files using Rmarkdown.
 
 Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.pdf) -- [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)
 
@@ -25,6 +21,14 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
   
     - Code: [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-wfl-ms.Rmd)
 
+
+
+# SER 2018 abstract
+
+[html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.docx) -- [link to google doc for editing](https://docs.google.com/document/d/1cz2wNXp2VFLM3jG2q8v4F7hbK9Upsk_1_Y2BdhTi3pk/edit?usp=sharing)
+
+
+<!--An overall summary can be found [here](../../unc-dissertation-markdown-p2/includes/scripts/paper1/overall-summary.html).-->
 
 
 ## 1. Statistical analysis plan

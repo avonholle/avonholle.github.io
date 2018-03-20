@@ -34,6 +34,10 @@ nvbars:
         url: /diss/ms2-analyses/
       - title: "manuscript 3"
         url: /diss/ms3-analyses/
+  - title: Editing process
+    children:
+      - title: "Editing flowchart"
+        url: /misc/edits/
   - title: Postdoctoral proposal
     children:
       - title: "proposal"
