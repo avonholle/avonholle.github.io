@@ -63,7 +63,7 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 ## 5. Misc
 
-[Check association between breastfeeding status and lipid outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.Rmd)
+[Check association between breastfeeding status and lipid outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.Rmd)
 
 
 
