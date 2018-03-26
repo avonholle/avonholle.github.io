@@ -95,10 +95,9 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
 3. [Results for weight-for-length (wfl)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/table2-mice-wfl.html) -- [code](../includes/scripts/paper1/table2-mice-wfl.Rmd)
 
 ---
+-->
 
-## 6. Association between the maternal predictors and latent growth classes with latent class growth mixture models (LGMM)
-
-### 6a. Model fit
+## 5. Latent class growth mixture models (LGMM) model fit
 
   1. [Model fit info -- stratified by sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/strat-sex/summarize-mplus-results-sex-strat.Rmd)
 
@@ -108,7 +107,6 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
   
         - [Template used to create Mplus files](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/template_mplus1-pooled-fit.txt)
 
--->
 
 <!-- The following scripts didn't adjust for sex -- just pooled
 
