@@ -106,6 +106,13 @@ Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/sc
   2. [Model fit info -- pooled by sex of child and growth factors adjusted for sex of child](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/pooled-fit/summarize-mplus-results-sex-pooled.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/pooled-fit/summarize-mplus-results-sex-pooled.Rmd)
   
         - [Template used to create Mplus files](../../unc-dissertation-markdown-p2/includes/scripts/paper1/lgmm/virtuallab/template_mplus1-pooled-fit.txt)
+        
+
+## 6. Misc
+
+[Check association between breastfeeding status and graffar index](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/misc-table-compare-bf2.Rmd)
+
+
 
 
 <!-- The following scripts didn't adjust for sex -- just pooled
