@@ -6,25 +6,20 @@ permalink: /diss/ms2-analyses/
 
 Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as an exposure and lipid levels at an average age of 17 years as an outcome. Two different types of analyses will be used to test the hypothesis that extreme levels of infant growth will influence lipid levels in adolescence. First, growth will be characterized by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids. Second, a latent growth mixture model (LGMM) divides growth patterns into distinct 'latent growth classes' that serves as the exposure and the lipids, either as univariate or combined into one latent factor, will serve as the outcome.
 
-# AHA Epi/Lifestyle 2018 abstract
-
-[abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.docx)
-
-[slides](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/slides-growth-lipid-levels.pdf)
 
 # Manuscript
 
-[Draft, word format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.docx) -- [draft, pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.pdf) -- [draft, html format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.html)
+  * [Draft, word format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.docx) -- [draft, pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.pdf) -- [draft, html format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.html)
 
 <!--
 [Tables and figures, html version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.Rmd)  
 -->
 
-[Tables and figures, pdf version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.Rmd) 
+  * [Tables and figures, pdf version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.Rmd) 
 
 ---
 
-[Tables and figures with breastfeeding as confounder, pdf version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-bf-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd) 
+  * [Tables and figures with breastfeeding as confounder, pdf version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-bf-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd) 
 
 <!--[Tables and figures](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/ms-tables/tables-ms.Rmd) 
 -->
@@ -35,21 +30,36 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 [Overall summary of results](../../unc-dissertation-markdown-p2/includes/scripts/paper2/overall-summary.html)
 -->
 
+# AHA Epi/Lifestyle 2018 abstract
+
+  * [abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/abstract-m2.docx)
+
+  * [slides](../../unc-dissertation-markdown-p2/includes/scripts/paper2/aha2018/slides-growth-lipid-levels.pdf)
+
+
+---
+
 # 1. Statistical analysis plan
 
-[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd)
+  * [Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper2/sap2.Rmd)
 
 <p></p>
 
 # 2. Data handling scripts
 
-**Note**: data handling done with the [first paper](/diss/ms1-analyses).
+  * **Note**: data handling done with the [first paper](/diss/ms1-analyses).
 
 <p></p>
 
+## 3. Misc
+
+  * [Check association between breastfeeding status and lipid outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.Rmd)
+
+
+<!--
 # 3. Table of descriptive statistics
 
-[Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.Rmd)
+  * [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/table1.Rmd)
 
 <p></p>
 
@@ -64,9 +74,8 @@ Analyses for manuscript 2 examines infant physical growth from months 0 to 5 as 
 
 [Results, .pdf](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all-pdfversion.Rmd)
 
-## 5. Misc
+-->
 
-[Check association between breastfeeding status and lipid outcomes](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf.Rmd)
 
 
 
