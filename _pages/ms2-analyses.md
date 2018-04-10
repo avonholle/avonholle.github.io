@@ -9,7 +9,10 @@ permalink: /diss/ms2-analyses/
 
 # Manuscript
 
-  * [Draft, word format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.docx) -- [draft, pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.pdf) -- [draft, html format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.html)
+  * Draft manuscript in
+    * [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.docx)
+    * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.pdf)
+    * [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper2/draft/ms2.html)
 
 <!--
 [Tables and figures, html version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.Rmd)  

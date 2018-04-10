@@ -14,7 +14,10 @@ permalink: /diss/ms1-analyses/
 
     * Note: I use this google doc as my source to create the following files using Rmarkdown as shown [here](/misc/edits/).
 
-  * Draft manuscript in [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.pdf) -- [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)
+  * Draft manuscript in 
+    * [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)
+    * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.pdf)
+    * [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)
 
   * [Formatted tables 1-4 for manuscript (pdf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)
   
