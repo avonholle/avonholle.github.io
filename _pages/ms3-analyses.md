@@ -4,7 +4,20 @@ title: "Analyses for manuscript 3: Infant growth as an effect modifier of geneti
 permalink: /diss/ms3-analyses/
 ---
 
-Aim 3 of my dissertation examines the associations between lipid SNPs and lipids conditional on growth classes. In this framework the growth classes function as effect modifiers of the SNP-lipid association. Both candidate lipid SNPs, chosen on the basis of marginal effects with adequate power, as well genetic risk scores will be covariates in the models. To characterize infant body size change I will use two analytic approaches as in aims 1 and 2: nonlinear mixed effects (SITAR) and latent growth mixture models (LGMM).
+<sub><sup>Aim 3 of my dissertation examines the associations between lipid SNPs and lipids conditional on growth classes. In this framework the growth classes function as effect modifiers of the SNP-lipid association. Both candidate lipid SNPs, chosen on the basis of marginal effects with adequate power, as well genetic risk scores will be covariates in the models. To characterize infant body size change I will use two analytic approaches as in aims 1 and 2: nonlinear mixed effects (SITAR) and latent growth mixture models (LGMM).</sup></sub>
+
+## Manuscript
+
+  * Draft manuscript in
+    * [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper3/draft/ms3.docx)
+    * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper3/draft/ms3.pdf)
+    * [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper3/draft/ms3.html)
+
+<!--
+[Tables and figures, html version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.Rmd)  
+-->
+
+  * [Tables and figures, pdf version](../../unc-dissertation-markdown-p2/includes/scripts/paper3/ms3-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd) 
 
 
 ## AHA Epi/Lifestyle 2018
@@ -39,12 +52,15 @@ Aim 3 of my dissertation examines the associations between lipid SNPs and lipids
 
 [Tables 2 and 3](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table2.Rmd)
 
+<!--
 
 ## 4. LGMM analysis: variation in association between genotype and univariate distal lipid outcome by growth classes
 
 *NOTE*: The significant results have somewhat sparse cell counts and should be considered with caution. See [this document](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/compile-mplus/m3-check-results.html) for cell frequencies by most likely latent class and allele counts for the significant associations.
 
 [Results, .pdf](../../unc-dissertation-markdown-p2/includes/scripts/paper3/ms3-read-all-pdfversion.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)
+
+-->
 
 <!--
 ### Pooled by sex of child
