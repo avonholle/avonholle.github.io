@@ -23,6 +23,9 @@ permalink: /diss/ms1-analyses/
   
     * Code: [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-wfl-ms.Rmd)
 
+## Manuscript draft outline for discussion
+
+    * [Outline as requested 4/2018](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1-discussion-outline.docx)
 
 
 # SER 2018 abstract
