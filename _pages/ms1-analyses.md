@@ -25,7 +25,7 @@ permalink: /diss/ms1-analyses/
 
 ## Manuscript draft outline for discussion
 
-    * [Outline as requested 4/2018](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1-discussion-outline.docx)
+  * [Outline as requested 4/2018](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1-discussion-outline.docx)
 
 
 # SER 2018 abstract
