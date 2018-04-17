@@ -28,6 +28,8 @@ nvbars:
     children:
       - title: "proposal"
         url: /diss/proposal/
+      - title: "Dissertation document"
+        url: /diss/final-doc/
       - title: "manuscript 1"
         url: /diss/ms1-analyses/
       - title: "manuscript 2"
