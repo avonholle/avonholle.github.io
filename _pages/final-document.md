@@ -20,12 +20,12 @@ permalink: /diss/final-doc/
 
 ### Manuscript 1
     
-* [Compile tables into one pdf document](../../unc-dissertation-markdown-public/includes/scripts/paper1/tables-ms.Rmd)  
-   * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper1/table1-rev-ms.Rmd)  
-   * [Table 2](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice.Rmd)
-   * [Table 3](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice-ht.Rmd)   
-   * [Table 4](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice-wfl.Rmd)  
-   * [Imputation script](../../unc-dissertation-markdown-public/includes/scripts/paper1/table3-data-handle-weight-impute-rev.Rmd)
+* [Compile tables into one pdf document](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)  
+   * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/table1-rev-ms.Rmd)  
+   * [Table 2](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/table2-mice.Rmd)
+   * [Table 3](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/table2-mice-ht.Rmd)   
+   * [Table 4](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/table2-mice-wfl.Rmd)  
+   * [Imputation script](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/table3-data-handle-weight-impute-rev.Rmd)
 
 ### Manuscript 2
 
