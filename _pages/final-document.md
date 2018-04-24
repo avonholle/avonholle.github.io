@@ -14,17 +14,41 @@ permalink: /diss/final-doc/
 
 ## Scripts used to create tables and figures for dissertation document
 
-1. Initial parts of dissertation document
+### Initial parts of dissertation document
+
+* [R markdown document to compile and format dissertation](../../unc-dissertation-markdown-public/dissertation.Rmd)
+
+### Manuscript 1
     
-    * [Tables](../../unc-dissertation-markdown-public/includes/scripts/paper1/tables-ms.Rmd)
+* [Compile tables into one pdf document](../../unc-dissertation-markdown-public/includes/scripts/paper1/tables-ms.Rmd)
 
-        * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper1/table1-rev-ms.Rmd)
-        
-        * [Table 2](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice.Rmd)
+   * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper1/table1-rev-ms.Rmd)
+   * [Table 2](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice.Rmd)
 
-        * [Table 3](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice-ht.Rmd)
+   * [Table 3](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice-ht.Rmd)
             
-        * [Table 4](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice-wfl.Rmd)
+   * [Table 4](../../unc-dissertation-markdown-public/includes/scripts/paper1/table2-mice-wfl.Rmd)
             
-            * [Imputation script](../../unc-dissertation-markdown-public/includes/scripts/paper1/table3-data-handle-weight-impute-rev.Rmd)
+   * [Imputation script](../../unc-dissertation-markdown-public/includes/scripts/paper1/table3-data-handle-weight-impute-rev.Rmd)
             
+### Manuscript 2
+
+* [Compile tables into one pdf document](../../unc-dissertation-markdown-public/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd)
+            
+   * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper2/table1.Rmd)
+   
+   * [Table 2 (SITAR results)](../../unc-dissertation-markdown-public/includes/scripts/paper2/initial-m2-impute2.Rmd)
+   
+   #### Table 3 -- LGMM results
+   
+   * [longleaf shell script](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-files-data.sh)
+   
+   * [.R file to run .Rmd file with Mplus analyses](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-mplus-prep.R)
+   
+   * [.Rmd file to run Mplus analyses via MplusAutomation package](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/m2-data-scripts-bf.Rmd)
+   
+   * Subsequent to the longleaf run I would transfer all files to my local desktop for further formatting.
+   
+      * [Aggregate all Mplus .out files into single R data frames with MplusAutomation](../../unc-dissertation-markdown-public/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd)
+   
+   
