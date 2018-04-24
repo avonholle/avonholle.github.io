@@ -39,7 +39,7 @@ permalink: /diss/final-doc/
    
    * [Table 2 (SITAR results)](../../unc-dissertation-markdown-public/includes/scripts/paper2/initial-m2-impute2.Rmd)
    
-   #### Table 3 -- LGMM results
+#### Table 3 -- LGMM results
    
    * [longleaf shell script](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-files-data.sh)
    
