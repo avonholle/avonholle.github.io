@@ -39,16 +39,16 @@ permalink: /diss/final-doc/
    
    * [Table 2 (SITAR results)](../../unc-dissertation-markdown-public/includes/scripts/paper2/initial-m2-impute2.Rmd)
    
-#### Table 3 -- LGMM results
+    * Table 3 -- LGMM results
    
-   * [longleaf shell script](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-files-data.sh)
+       * [longleaf shell script](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-files-data.sh)  
    
-   * [.R file to run .Rmd file with Mplus analyses](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-mplus-prep.R)
+       * [.R file to run .Rmd file with Mplus analyses](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-mplus-prep.R)  
    
-   * [.Rmd file to run Mplus analyses via MplusAutomation package](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/m2-data-scripts-bf.Rmd)
+       * [.Rmd file to run Mplus analyses via MplusAutomation package](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/m2-data-scripts-bf.Rmd)  
    
-   * Subsequent to the longleaf run I would transfer all files to my local desktop for further formatting.
+       * Subsequent to the longleaf run I would transfer all files to my local desktop for further formatting.  
    
-      * [Aggregate all Mplus .out files into single R data frames with MplusAutomation](../../unc-dissertation-markdown-public/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd)
+       * [Aggregate all Mplus .out files into single R data frames with MplusAutomation](../../unc-dissertation-markdown-public/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd)  
    
    
