@@ -14,9 +14,10 @@ permalink: /diss/
 
 **Presentations**
 
-[Presentation for post-doctoral position -- 2017-11](../../unc-dissertation-markdown-p2/includes/scripts/presentations/postdoc-201711/avh-diss-slides-beamer-version-nonotes.pdf)
+1. [AHA board of directors presentatin, Winter 2017](../../unc-dissertation-markdown/slides-nonotes.pdf) -- [code for slides](https://github.com/avonholle/presentations-2017/blob/main/AHA-feb-2017/slides.Rmd)
 
+2. [Dissertation proposal defense](../../unc-dissertation-markdown/avh-proposal-slides-markdown-version.html) -- [Code for slides](https://github.com/avonholle/unc-dissertation-markdown/blob/main/proposal-slides/avh-proposal-slides-markdown-version.Rmd) *NOTE:* These slides best viewed with Chrome. This is part of a private github repo so email me with your github username so allow access.
 
-**Interim Meeting**
+3. [NIEHS post-doctoral position -- 2017-11](../../unc-dissertation-markdown-p2/includes/scripts/presentations/postdoc-201711/avh-diss-slides-beamer-version-nonotes.pdf)
 
-[Interim meeting slides](../../unc-dissertation-markdown-p2/includes/scripts/presentations/interim-meeting/avh-interim-diss-slides-beamer-version-nonotes.pdf)
+[Interim meeting](../../unc-dissertation-markdown-p2/includes/scripts/presentations/interim-meeting/avh-interim-diss-slides-beamer-version-nonotes.pdf)

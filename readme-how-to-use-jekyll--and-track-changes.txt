@@ -23,7 +23,7 @@ p, li, dl {
 to
 
 p, li, dl {
-    font-size: 0.8em;
+    font-size: 0.975em;
   }
 
 2. 
