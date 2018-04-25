@@ -47,14 +47,20 @@ permalink: /diss/final-doc/
                  8. Stratified ratio, adjusted:  [step 3, 2 class](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates-bf/template_mplus2-step3-2-class-strat-ratio-noadjust.txt)  
                  
     * Subsequent to the longleaf run I would transfer all .out files to my local desktop for further formatting.  
-            * [Aggregate all Mplus .out files into single R data frames with MplusAutomation](../../unc-dissertation-markdown-public/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd)  
+        * [Aggregate all Mplus .out files into single R data frames with MplusAutomation](../../unc-dissertation-markdown-public/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd)  
    
    
 ### Manuscript 3
 
 * [Compile tables into one pdf document](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
     * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/table1.Rmd)  
-    * [Table 2](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
-    * [Table 3](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
-    * [Table 4](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
-    * [Table 5](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
+    * [Tables 2-5](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
+        * Tables 2-5 are from aggregate data compiled in the longleaf computing cluster:
+            * [longleaf shell script for reading in snps from .vcf files](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/run-files.sh.txt)  
+                * [.R file to read in SNPs](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/read-vcf-snps.R) 
+            * [longleaf shell script for analyses](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/run-files-data.sh.txt) 
+            * [.R file to run .Rmd file with Mplus analyses in longleaf](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/run-mplus-prep.R)  
+            * [.Rmd file to read in snps and merge with phenotypes](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/get-snp-data.Rmd)  
+            * [.Rmd file to run Mplus analyses via MplusAutomation on longleaf package](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/m3-data-scripts.Rmd)  
+            
+    
