@@ -14,7 +14,7 @@ Aim 3. [Growth as an effect modifier of lipid genetic effects](/diss/ms3-analyse
 
 **Presentations**
 
-1. [AHA board of directors presentatin, Winter 2017](../../unc-dissertation-markdown/slides-nonotes.pdf) -- [code for slides](https://github.com/avonholle/presentations-2017/blob/main/AHA-feb-2017/slides.Rmd)
+1. [AHA board of directors presentation, Winter 2017](../../unc-dissertation-markdown/slides-nonotes.pdf) -- [code for slides](https://github.com/avonholle/presentations-2017/blob/main/AHA-feb-2017/slides.Rmd)
 
 2. [Dissertation proposal defense](../../unc-dissertation-markdown/avh-proposal-slides-markdown-version.html) -- [Code for slides](https://github.com/avonholle/unc-dissertation-markdown/blob/main/proposal-slides/avh-proposal-slides-markdown-version.Rmd) *NOTE:* These slides best viewed with Chrome. This is part of a private github repo so email me with your github username so allow access.
 
