@@ -56,11 +56,13 @@ permalink: /diss/final-doc/
     * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/table1.Rmd)  
     * [Tables 2-5](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
         * Tables 2-5 are from aggregate data compiled in the longleaf computing cluster:
-            * [longleaf shell script for reading in snps from .vcf files](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/run-files.sh.txt)  
-                * [.R file to read in SNPs](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/read-vcf-snps.R) 
+            * [longleaf shell script for reading in snps from .vcf files](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/run-files.sh.txt)  
+                * [.Rmd file to read in SNPs](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/read-vcf-snps.Rmd) 
+                * [.Rmd to get list of snps from literature](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/create-list-snps-for-vcf.R)
             * [longleaf shell script for analyses](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/run-files-data.sh.txt) 
                 * [.R file to run .Rmd file with Mplus analyses in longleaf](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/run-mplus-prep.R)  
                 * [.Rmd file to read in snps and merge with phenotypes](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/get-snp-data.Rmd)  
+                * [.Rmd file to get phenotype data phenotypes](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/get-phen-data.Rmd)  
                 * [.Rmd file to run Mplus analyses via MplusAutomation on longleaf package](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/m3-data-scripts.Rmd)  
                     * Templates to generate Mplus files run in .Rmd file above
                         1. Pooled, unadjusted: [step 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/pooled/template-m3-mplus-univ-distal-step1-pooled.txt), [step 3, 2-class](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/pooled/template-m3-mplus-univ-distal-step3-2class-pooled.txt), [step 3, 3-class](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/pooled/template-m3-mplus-univ-distal-step3-3class-pooled.txt)
