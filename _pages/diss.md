@@ -24,4 +24,4 @@ Aim 3. [Growth as an effect modifier of lipid genetic effects](/diss/ms3-analyse
 
 5. [2018 AHA oral presention in life course epidemiology session](../unc-dissertation-markdown-p2/includes/scripts/presentations/aha-2018-m2/aha-m2-mar2018.pdf) -- [Overleaf LaTeX code for slides](https://www.overleaf.com/read/trzmrtksswxn)
 
-6. [2018 AHA poster presention]((../unc-dissertation-markdown-p2/includes/scripts/presentations/presentations/aha-2018-m3/aha-2018-m3.pdf) -- [Overleaf LaTeX code for slides](https://www.overleaf.com/read/ddyzyzrphshc)
+6. [2018 AHA poster presention](../unc-dissertation-markdown-p2/includes/scripts/presentations/presentations/aha-2018-m3/aha-2018-m3.pdf) -- [Overleaf LaTeX code for slides](https://www.overleaf.com/read/ddyzyzrphshc)
