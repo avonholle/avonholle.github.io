@@ -34,8 +34,10 @@ permalink: /diss/final-doc/
    * [Table 2 (SITAR results)](../../unc-dissertation-markdown-public/includes/scripts/paper2/initial-m2-impute2.Rmd)  
    * Table 3 -- LGMM results  
        * [longleaf shell script](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-files-data.sh)  
-         * [.R file to run .Rmd file with Mplus analyses](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-mplus-prep.R)  
-         * [.Rmd file to run Mplus analyses via MplusAutomation package](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/m2-data-scripts-bf.Rmd)  
+         * [.R file to run .Rmd file with Mplus analyses in longleaf](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-mplus-prep.R)  
+         * [.Rmd file to run Mplus analyses via MplusAutomation on longleaf package](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/m2-data-scripts-bf.Rmd)  
+             * Text files used in file above to generate Mplus models by sex of child, type of outcome, and type of lipid exposure: 
+                 * Pooled and adjusted: [step 1, make data](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates-bf/template_mplus2-step1-pooled-univ.txt), [step 3, 2 class](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates-bf/template_mplus2-step3-2-class-pooled-univ.txt), [step 3, 3-class](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/mplus-templates-bf/template_mplus2-step3-3-class-pooled-univ.txt)
          * Subsequent to the longleaf run I would transfer all .out files to my local desktop for further formatting.  
             * [Aggregate all Mplus .out files into single R data frames with MplusAutomation](../../unc-dissertation-markdown-public/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd)  
    
@@ -43,7 +45,7 @@ permalink: /diss/final-doc/
 ### Manuscript 3
 
 * [Compile tables into one pdf document](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
-    * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/table1.Rmd)  
+    * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/table1.Rmd)  
     * [Table 2](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
     * [Table 3](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
     * [Table 4](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
