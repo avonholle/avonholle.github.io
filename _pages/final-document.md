@@ -36,7 +36,15 @@ permalink: /diss/final-doc/
        * [longleaf shell script](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-files-data.sh)  
          * [.R file to run .Rmd file with Mplus analyses](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/run-mplus-prep.R)  
          * [.Rmd file to run Mplus analyses via MplusAutomation package](../../unc-dissertation-markdown-public/includes/scripts/paper2/longleaf/compile-mplus/m2-data-scripts-bf.Rmd)  
-         * Subsequent to the longleaf run I would transfer all files to my local desktop for further formatting.  
+         * Subsequent to the longleaf run I would transfer all .out files to my local desktop for further formatting.  
             * [Aggregate all Mplus .out files into single R data frames with MplusAutomation](../../unc-dissertation-markdown-public/includes/scripts/paper2/bch-read-all-bf-pdfversion.Rmd)  
    
    
+### Manuscript 3
+
+* [Compile tables into one pdf document](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
+    * [Table 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/table1.Rmd)  
+    * [Table 2](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
+    * [Table 3](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
+    * [Table 4](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
+    * [Table 5](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)  
