@@ -26,6 +26,9 @@ permalink: /diss/final-doc/
    * [Table 3](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/table2-mice-ht.Rmd)   
    * [Table 4](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/table2-mice-wfl.Rmd)  
    * [Imputation script](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/table3-data-handle-weight-impute-rev.Rmd)
+   
+
+
 
 ### Manuscript 2
 
@@ -70,4 +73,29 @@ permalink: /diss/final-doc/
                         3. Stratified, unadjusted: [step 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat/template-m3-mplus-univ-alt-distal-step1.txt), [step 3, 2-class](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat/template-m3-mplus-univ-alt-distal-step3-2class.txt), [step 3, 3-class](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat/template-m3-mplus-univ-alt-distal-step3-3class.txt)
                         4. Stratified, adjusted: [step 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat-adj/template-m3-mplus-univ-alt-distal-step1-adj.txt), [step 3, 2-class](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat-adj/template-m3-mplus-univ-alt-distal-step3-2class-adj.txt)                    
             
+#### Appendices
+
+  * [Appendix A](../../unc-dissertation-markdown-public/sections/appendix-graffar-desc.Rmd)
+      * [Set up data for table](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)  
+      * [Data handling script 1](../../unc-dissertation-markdown-public/includes/scripts/paper1/Descriptive2.Rmd)  
+      * [Data handling script 2](../../unc-dissertation-markdown-public/includes/scripts/paper1/descriptive_statistics.Rmd)  
+  * [Appendix B](../../unc-dissertation-markdown-public/sections/appendix-model-fit-sitar.Rmd)
+     * [Compile results from longleaf run](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/fit-summary.Rmd)  
+     * [Shell script for longleaf](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/model-fit/run-fit-files.sh.txt)  
+     * [R file to knit docs in longleaf](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/model-fit/run-fit-files.R)       
+     * [Run SITAR models on longleaf run](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/model-fit/table3-w-fcns.Rmd)  
+     * [Data for SITAR models on longleaf run](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/model-fit/table3-data-handle-weight.Rmd)  
+  * [Appendix C](../../unc-dissertation-markdown-public/sections/appendix-model-fit-lgmm.Rmd)
+     * [Compile results for table, pooled](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/summarize-mplus-results-sex-pooled.Rmd)
+     * [Compile results for table, sex stratified](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/summarize-mplus-results-sex-strat.Rmd)
+        * [longleaf run shell script](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/run-files-data.sh.txt)
+        * [longleaf run .R file to knit documents](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/run-mplus-prep.R)
+        * [longleaf .Rmd file to run all Mplus scripts](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/m1-data-scripts.Rmd)
+           * [Mplus template, pooled](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/mplus-templates/template_mplus1-pooled-fit.txt)
+           * [Mplus template, sex  stratified](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/mplus-templates/template_mplus1-strat-sex.txt)
+  * [Appendix D](../../unc-dissertation-markdown-public/sections/appendix-a-rev.Rmd)
+  * [Appendix E](../../unc-dissertation-markdown-public/sections/appendix-b-new.Rmd)
+     * [Source of data: tables 2-5 in ms3 listed above](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)
+  * [Appendix F](../../unc-dissertation-markdown-public/sections/appendix-d.Rmd)
     
+
