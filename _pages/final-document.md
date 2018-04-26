@@ -17,6 +17,11 @@ permalink: /diss/final-doc/
 ### Initial parts of dissertation document
 
 * [R markdown document to compile and format dissertation](../../unc-dissertation-markdown-public/dissertation.Rmd)
+   * This markdown document relies on following .tex files all adapted LaTeX files written by graduate students in the UNC Dept of Math(https://github.com/mmalahe/unc-dissertation)
+      * [document settings](../../unc-dissertation-markdown-public/includes/tex/doc_prefix_unc.tex)
+      * [more document settings](../../unc-dissertation-markdown-public/includes/tex/glossaryfile.tex)
+      * [glossary](../../unc-dissertation-markdown-public/includes/tex/header-unc.tex)
+      * [LaTeX Document Class File](../../unc-dissertation-markdown-public/uncdissertation.cls)
 
 ### Manuscript 1
     
