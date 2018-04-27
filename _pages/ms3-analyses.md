@@ -27,23 +27,23 @@ permalink: /diss/ms3-analyses/
 [Submitted abstract](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.html) -- [word version](../../unc-dissertation-markdown-p2/includes/scripts/paper3/aha2018/abstract-m3.docx)
 
 
+## Statistical analysis plan
+
+[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper3/sap3.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper3/sap3.Rmd)
 
 <!--
 ## Overall summary
 
 [Overall summary of results](../../unc-dissertation-markdown-p2/includes/scripts/paper3/overall-summary.html)
--->
-
-## 1. Statistical analysis plan
-
-[Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper3/sap3.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper3/sap3.Rmd)
 
 ## 2. Scripts to read in genetic data
 
 1. [script to read in vcf data on longleaf and extract relevant snps](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/read-vcf-snps.R)
+-->
 
 <!--2. [script to summarize snp data](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/look-vcf-snps.Rmd)-->
 
+<!--
 2. [Information for genetic risk score -- data handling and list of variants](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/snp-description.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/snp-description.Rmd)
 
 3. [Power calcs for marginal effects](../../unc-dissertation-markdown-public/includes/scripts/power/aim3/power-calcs-ind-assoc.html) -- [code](../../unc-dissertation-markdown-public/includes/scripts/power/aim3/power-calcs-ind-assoc.Rmd)
@@ -51,6 +51,7 @@ permalink: /diss/ms3-analyses/
 ## 3. SITAR analysis: gene-environment interaction test for SITAR growth parameters and genotype
 
 [Tables 2 and 3](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/table2.Rmd)
+-->
 
 <!--
 
