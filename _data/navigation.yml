@@ -26,8 +26,6 @@ nvbars:
         url: /manuscripts/growth-traj/
   - title: Dissertation
     children:
-      - title: "proposal"
-        url: /diss/proposal/
       - title: "Dissertation document"
         url: /diss/final-doc/
       - title: "manuscript 1"
@@ -36,6 +34,8 @@ nvbars:
         url: /diss/ms2-analyses/
       - title: "manuscript 3"
         url: /diss/ms3-analyses/
+      - title: "proposal"
+        url: /diss/proposal/
   - title: Editing process
     children:
       - title: "Editing flowchart"
