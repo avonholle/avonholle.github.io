@@ -78,13 +78,7 @@ permalink: /diss/final-doc/
                            3. Stratified, unadjusted: [step 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat/template-m3-mplus-univ-alt-distal-step1.txt), [step 3, 2-class](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat/template-m3-mplus-univ-alt-distal-step3-2class.txt), [step 3, 3-class](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat/template-m3-mplus-univ-alt-distal-step3-3class.txt)
                            4. Stratified, adjusted: [step 1](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat-adj/template-m3-mplus-univ-alt-distal-step1-adj.txt), [step 3, 2-class](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/mplus-tempates/strat-adj/template-m3-mplus-univ-alt-distal-step3-2class-adj.txt)           
 
-        * Scripts to get relevant SNPs
-            * [.Rmd file to read in snps and merge with phenotypes](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/get-snp-data.Rmd)          
-            * [longleaf shell script for reading in snps from .vcf files](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/run-files.sh.txt)  
-            * [.Rmd file to read in SNPs](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/read-vcf-snps.Rmd) 
-            * [.Rmd to get list of snps from literature](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/create-list-snps-for-vcf.R)
-         
-            
+
 #### Appendices
 
   * [Appendix A: Graffar Index Component Description](../../unc-dissertation-markdown-public/sections/appendix-graffar-desc.Rmd)
