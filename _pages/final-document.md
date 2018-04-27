@@ -80,17 +80,17 @@ permalink: /diss/final-doc/
             
 #### Appendices
 
-  * [Appendix A](../../unc-dissertation-markdown-public/sections/appendix-graffar-desc.Rmd)
+  * [Appendix A: Graffar Index Component Description](../../unc-dissertation-markdown-public/sections/appendix-graffar-desc.Rmd)
       * [Set up data for table](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)  
       * [Data handling script 1](../../unc-dissertation-markdown-public/includes/scripts/paper1/Descriptive2.Rmd)  
       * [Data handling script 2](../../unc-dissertation-markdown-public/includes/scripts/paper1/descriptive_statistics.Rmd)  
-  * [Appendix B](../../unc-dissertation-markdown-public/sections/appendix-model-fit-sitar.Rmd)
+  * [Appendix B: SITAR model fit](../../unc-dissertation-markdown-public/sections/appendix-model-fit-sitar.Rmd)
      * [Compile results from longleaf run](../../unc-dissertation-markdown-public/includes/scripts/paper1/sitar-rev5/fit-summary.Rmd)  
         * [Shell script for longleaf](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/model-fit/run-fit-files.sh.txt)  
         * [R file to knit docs in longleaf](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/model-fit/run-fit-files.R)       
         * [Run SITAR models on longleaf run](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/model-fit/table3-w-fcns.Rmd)  
           * [Data for SITAR models on longleaf run](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/model-fit/table3-data-handle-weight.Rmd)  
-  * [Appendix C](../../unc-dissertation-markdown-public/sections/appendix-model-fit-lgmm.Rmd)
+  * [Appendix C: LGMM model fit](../../unc-dissertation-markdown-public/sections/appendix-model-fit-lgmm.Rmd)
      * [Compile results for table, pooled](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/summarize-mplus-results-sex-pooled.Rmd)
      * [Compile results for table, sex stratified](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/summarize-mplus-results-sex-strat.Rmd)
         * [longleaf run shell script](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/run-files-data.sh.txt)
@@ -98,9 +98,9 @@ permalink: /diss/final-doc/
         * [longleaf .Rmd file to run all Mplus scripts](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/m1-data-scripts.Rmd)
            * [Mplus template, pooled](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/mplus-templates/template_mplus1-pooled-fit.txt)
            * [Mplus template, sex  stratified](../../unc-dissertation-markdown-public/includes/scripts/paper1/longleaf/compile-mplus/mplus-templates/template_mplus1-strat-sex.txt)
-  * [Appendix D](../../unc-dissertation-markdown-public/sections/appendix-a-rev.Rmd)
-  * [Appendix E](../../unc-dissertation-markdown-public/sections/appendix-b-new.Rmd)
+  * [Appendix D: Lipid loci in Hispanic ancestry populations at genome-wide significance.](../../unc-dissertation-markdown-public/sections/appendix-a-rev.Rmd)
+  * [Appendix E: All pairwise growth class differences in lipid distal outcome and mean lipid distal outcomes by latent class groups](../../unc-dissertation-markdown-public/sections/appendix-b-new.Rmd)
      * [Source of data: tables 2-5 in ms3 listed above](../../unc-dissertation-markdown-public/includes/scripts/paper3/ms3-read-all-pdfversion.Rmd)
-  * [Appendix F](../../unc-dissertation-markdown-public/sections/appendix-d.Rmd)
+  * [Appendix F: Background for power calculations](../../unc-dissertation-markdown-public/sections/appendix-d.Rmd)
     
 
