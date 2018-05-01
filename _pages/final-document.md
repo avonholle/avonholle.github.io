@@ -67,9 +67,9 @@ permalink: /diss/final-doc/
             * [longleaf shell script for analyses](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/run-files-data.sh.txt) 
                 * [.R file to run .Rmd file with Mplus analyses in longleaf](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/run-mplus-prep.R)  
                    * [.Rmd file to read in snps and merge with phenotypes](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/get-snp-data.Rmd)  
-                      * [.Rmd file to get phenotype data phenotypes](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/get-phen-data.Rmd)  
-                      * [.Rmd file to get phenotype data phenotypes](../../unc-dissertation-markdown-public/includes/scripts/power/aim3/power-calcs-ind-assoc.Rmd)  
-                          * [.R file to get lipid SNPs](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/create-list-snps-for-vcf.R)  
+                      * [.Rmd file to get phenotype data](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/get-phen-data.Rmd)  
+                      * [.Rmd file to get list of snps based on power calcs](../../unc-dissertation-markdown-public/includes/scripts/power/aim3/power-calcs-ind-assoc.Rmd)  
+                          * [.R file to extract snps from vcf file](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/create-list-snps-for-vcf.R)  
                    * [.Rmd file to run Mplus analyses via MplusAutomation on longleaf package](../../unc-dissertation-markdown-public/includes/scripts/paper3/longleaf/compile-mplus/m3-data-scripts.Rmd)  
                       * [Export growth phenotype data for merge](../../unc-dissertation-markdown-public/includes/scripts/paper1/lgmm/export-mplus.Rmd)
                       * Templates to generate Mplus files run in .Rmd file above
