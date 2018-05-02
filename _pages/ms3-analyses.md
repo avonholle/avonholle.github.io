@@ -31,6 +31,9 @@ permalink: /diss/ms3-analyses/
 
 [Statistical analysis plan (SAP)](../../unc-dissertation-markdown-p2/includes/scripts/paper3/sap3.html) -- [code for SAP](../../unc-dissertation-markdown-p2/includes/scripts/paper3/sap3.Rmd)
 
+
+[Information for genetic risk score -- data handling and list of variants](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/snp-description.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper3/longleaf/snp-description.Rmd)
+
 <!--
 ## Overall summary
 
