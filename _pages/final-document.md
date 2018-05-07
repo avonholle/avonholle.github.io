@@ -16,6 +16,8 @@ permalink: /diss/final-doc/
 
 [Dissertation defense slides](../../unc-dissertation-markdown-p2/defense-slides-avh.pdf)
 
+  * Note: These slides [compiled in LaTeX on overleaf](https://www.overleaf.com/15861270tdtfhzyywpyy)
+
 ## Scripts used to create tables and figures for dissertation document
 
 ### Initial parts of dissertation document
