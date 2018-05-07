@@ -11,6 +11,10 @@ permalink: /diss/final-doc/
     * Note: -- in [pdf format as expected for submission](https://gradschool.unc.edu/academics/thesis-diss/guide/submission.html)
     
     * [Departmental guidelines for dissertation submission](https://sph.unc.edu/files/2017/09/Acad_Policies_Fall_2017.pdf)
+    
+## Slides
+
+[Dissertation defense slides](../../unc-dissertation-markdown-p2/defense-slides-avh.pdf)
 
 ## Scripts used to create tables and figures for dissertation document
 
