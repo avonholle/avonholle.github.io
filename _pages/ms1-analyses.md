@@ -31,7 +31,7 @@ permalink: /diss/ms1-analyses/
 
 # SER 2018
 
-  * [Poster](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/sociodemographic-predictors-early.pdf)
+  * [Poster](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/sociodemographic-predictors-early.pdf) -- [Overleaf source code](https://www.overleaf.com/read/fjhffmnyjykc)
 
   * [Abstract html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.docx) -- [link to google doc for editing](https://docs.google.com/document/d/1cz2wNXp2VFLM3jG2q8v4F7hbK9Upsk_1_Y2BdhTi3pk/edit?usp=sharing)
 
