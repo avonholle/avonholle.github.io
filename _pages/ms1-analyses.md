@@ -29,9 +29,11 @@ permalink: /diss/ms1-analyses/
       * [Google docs draft](https://docs.google.com/document/d/1gdWsKwNg9iOMS9-bPFRTJq3RE0W64rEeFBDBTzccfeU/edit?usp=sharing)
 
 
-# SER 2018 abstract
+# SER 2018
 
-  * [html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.docx) -- [link to google doc for editing](https://docs.google.com/document/d/1cz2wNXp2VFLM3jG2q8v4F7hbK9Upsk_1_Y2BdhTi3pk/edit?usp=sharing)
+  * [Poster](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/sociodemographic-predictors-early.pdf)
+
+  * [Abstract html draft](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.html)  -- [Word draft, .docx](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/SER/SER2018-abstract-ms1.docx) -- [link to google doc for editing](https://docs.google.com/document/d/1cz2wNXp2VFLM3jG2q8v4F7hbK9Upsk_1_Y2BdhTi3pk/edit?usp=sharing)
 
 
 <!--An overall summary can be found [here](../../unc-dissertation-markdown-p2/includes/scripts/paper1/overall-summary.html).-->
