@@ -14,7 +14,8 @@ permalink: /diss/ms1-analyses/
 
     * Note: I use this google doc as my source to create the following files using Rmarkdown as shown [here](/misc/edits/).
     
-    * Manuscript as formatted for JECH
+
+  * Manuscript formatted for JECH
       * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.pdf)
     
   * Draft manuscript in 
