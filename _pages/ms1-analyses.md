@@ -16,7 +16,7 @@ permalink: /diss/ms1-analyses/
     
 
   * Manuscript formatted for JECH
-      * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.pdf)
+      * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-jech.pdf)
     
   * Draft manuscript in 
     * [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)
