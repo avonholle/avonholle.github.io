@@ -8,24 +8,24 @@ permalink: /diss/ms1-analyses/
 
 <sub><sup>Another type of analysis was the latent growth mixture model (LGMM), which divides growth patterns into distinct 'latent growth classes' that serves as the outcome regressed onto the prenatal predictors. Given the complexity of the models, we decided to only include the SITAR results to simplify the manuscript.</sup></sub>
 
-# Manuscript draft (unless I get other suggestions I am planning to submit to [J of Epidemiology and Community Health](http://jech.bmj.com/))
+## Manuscript draft (unless I get other suggestions I am planning to submit to [J of Epidemiology and Community Health](http://jech.bmj.com/))
 
-  * [Google docs source document for manuscript](https://docs.google.com/document/d/1sqjSOwP_TUdE20elaogdvLT-J9tWwCOA5NEZTfCg3X0/edit?usp=sharing)
-
-    * Note: I use this google doc as my source to create the following files using Rmarkdown as shown [here](/misc/edits/).
-    
-
-  * Manuscript formatted for JECH
-      * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-jech.pdf)
+  * Manuscript formatted for JECH, 5/2018
+      * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.pdf) -- [code for manuscript](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.Rmd) and [titlepage script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms-jech-titlepage.Rmd) and [tables](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms-jech.Rmd)
     
   * Draft manuscript in 
-    * [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)
+    * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)
     * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.pdf)
     * [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)
 
   * [Formatted tables 1-4 for manuscript (pdf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)
   
     * Code: [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-wfl-ms.Rmd)
+
+  * [Google docs source document for manuscript](https://docs.google.com/document/d/1sqjSOwP_TUdE20elaogdvLT-J9tWwCOA5NEZTfCg3X0/edit?usp=sharing)
+
+    * Note: I use this google doc as my source to create the following files using Rmarkdown as shown [here](/misc/edits/).
+    
 
 ## Manuscript draft outline for discussion
 
