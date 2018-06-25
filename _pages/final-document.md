@@ -6,11 +6,13 @@ permalink: /diss/final-doc/
 
 ## Draft 
 
-* [Dissertation draft, pdf format](../../unc-dissertation-markdown-p2/dissertation.pdf)
+* [Dissertation, pdf format](../../unc-dissertation-markdown-p2/dissertation.pdf)
 
     * Note: -- in [pdf format as expected for submission](https://gradschool.unc.edu/academics/thesis-diss/guide/submission.html)
     
     * [Departmental guidelines for dissertation submission](https://sph.unc.edu/files/2017/09/Acad_Policies_Fall_2017.pdf)
+    
+    * Note: If you are interested in compiling your dissertation according to the UNC format I have a minimal working example, following my submitted and accepted dissertation, [here](../../unc-dissertation-markdown-template)
     
 ## Slides
 
