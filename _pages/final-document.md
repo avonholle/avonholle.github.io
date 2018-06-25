@@ -12,7 +12,7 @@ permalink: /diss/final-doc/
     
     * [Departmental guidelines for dissertation submission](https://sph.unc.edu/files/2017/09/Acad_Policies_Fall_2017.pdf)
     
-    * Note: If you are interested in compiling your dissertation according to the UNC format I have a minimal working example, following my submitted and accepted dissertation, [here](../../unc-dissertation-markdown-template)
+    * Note: If you are interested in compiling your dissertation according to the UNC format I have a minimal working example, following my submitted and accepted dissertation, [here](https://github.com/avonholle/unc-dissertation-markdown-template)
     
 ## Slides
 
