@@ -4,7 +4,7 @@ title : Dissertation document
 permalink: /diss/final-doc/
 ---
 
-## Draft 
+## Submitted dissertation, 2018-06
 
 * [Dissertation, pdf format](../../unc-dissertation-markdown-p2/dissertation.pdf)
 
