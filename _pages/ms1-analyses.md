@@ -122,7 +122,7 @@ permalink: /diss/ms1-analyses/
 
 ## 6. Misc
 
-  * [Check association between breastfeeding status and graffar index](../../unc-dissertation-markdown-p2/includes/scripts/paper2/misc-table-compare-bf2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/misc-table-compare-bf2.Rmd)
+  * [Check association between breastfeeding status and graffar index](../../unc-dissertation-markdown-p2/includes/scripts/paper1/misc-table-compare-bf2.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/misc-table-compare-bf2.Rmd)
 
 
    * [check dropout by attrition status](../../unc-dissertation-markdown-p2/includes/scripts/paper1/check-dropout.html)
