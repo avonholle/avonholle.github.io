@@ -10,7 +10,7 @@ permalink: /diss/ms1-analyses/
 
 ## Manuscript draft (unless I get other suggestions I am planning to submit to [J of Epidemiology and Community Health](http://jech.bmj.com/))
 
-  * Manuscript formatted for JECH, 5/2018
+  * Manuscript formatted for BMJ Open, 10/2018
       * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.pdf) -- [code for manuscript](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.Rmd) and [titlepage script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms-jech-titlepage.Rmd) and [tables](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms-jech.Rmd)
     
   * Draft manuscript in 
