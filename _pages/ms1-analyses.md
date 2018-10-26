@@ -8,7 +8,7 @@ permalink: /diss/ms1-analyses/
 
 <sub><sup>Another type of analysis was the latent growth mixture model (LGMM), which divides growth patterns into distinct 'latent growth classes' that serves as the outcome regressed onto the prenatal predictors. Given the complexity of the models, we decided to only include the SITAR results to simplify the manuscript.</sup></sub>
 
-## Manuscript draft (unless I get other suggestions I am planning to submit to [J of Epidemiology and Community Health](http://jech.bmj.com/))
+## Manuscript draft
 
   * Manuscript formatted for BMJ Open, 10/2018
       * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.pdf) -- [code for manuscript](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.Rmd) and [titlepage script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms-jech-titlepage.Rmd) and [tables](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms-jech.Rmd)
