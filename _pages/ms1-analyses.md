@@ -10,13 +10,13 @@ permalink: /diss/ms1-analyses/
 
 ## Manuscript draft
 
-  * Manuscript formatted for BMJ Open, 10/2018
+  * Manuscript formatted for BMJ Open, 1/2019
       * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.pdf) -- [code for manuscript](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.Rmd) and [titlepage script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms-jech-titlepage.Rmd) and [tables](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms-jech.Rmd)
     
-  * Draft manuscript in 
+<!--  * Draft manuscript in 
     * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.docx)
     * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.pdf)
-    * [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)
+    * [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms1.html)-->
 
   * [Formatted tables 1-4 for manuscript (pdf)](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.pdf) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms.Rmd)
   
