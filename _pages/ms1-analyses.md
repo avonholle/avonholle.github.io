@@ -4,9 +4,11 @@ title : analyses for manuscript 1 -- Sociodemographic predictors of early postna
 permalink: /diss/ms1-analyses/
 ---
 
-<sub><sup>Analyses for manuscript 1 include estimating the association between prenatal predictors and infant physical growth from months 0 to 5 as an outcome. In the manuscripte, we will focus on characterizing growth by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids.</sup></sub>
+## Description
 
-<sub><sup>Another type of analysis was the latent growth mixture model (LGMM), which divides growth patterns into distinct 'latent growth classes' that serves as the outcome regressed onto the prenatal predictors. Given the complexity of the models, we decided to only include the SITAR results to simplify the manuscript.</sup></sub>
+Analyses for manuscript 1 include estimating the association between prenatal predictors and infant physical growth from months 0 to 5 as an outcome. In the manuscripte, we will focus on characterizing growth by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids.
+
+
 
 ## Manuscript draft
 
