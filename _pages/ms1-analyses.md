@@ -12,7 +12,7 @@ Analyses for manuscript 1 include estimating the association between prenatal pr
 ## Manuscript draft
 
   * Manuscript formatted for BMJ Open, 1/2019
-    * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-tosubmitdraft-bmjopen.docx)
+    * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
 
 <!--   * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.pdf) -- [code for manuscript](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.Rmd) and [titlepage script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms-jech-titlepage.Rmd) and [tables](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms-jech.Rmd) -->
     
