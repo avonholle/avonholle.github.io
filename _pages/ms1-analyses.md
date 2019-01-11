@@ -9,7 +9,6 @@ permalink: /diss/ms1-analyses/
 Analyses for manuscript 1 include estimating the association between prenatal predictors and infant physical growth from months 0 to 5 as an outcome. In the manuscripte, we will focus on characterizing growth by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids.
 
 
-
 ## Manuscript draft
 
   * Manuscript formatted for BMJ Open, 1/2019
