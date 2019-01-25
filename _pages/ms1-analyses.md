@@ -11,14 +11,11 @@ Analyses for manuscript 1 include estimating the association between prenatal pr
 
 ## Manuscript draft
 
-  * Manuscript formatted for BMJ Open, 1/2019
-    * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
+  * Manuscript formatted for BMJ Open, 1/2019 in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
     
-  * Original manuscript formatted for Journal Environmental and Community Health (JECH), 6/2018
-    * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx)
+      * Original manuscript formatted for Journal Environmental and Community Health (JECH), 6/2018. In [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx)
     
-  * Differences between the two manuscripts (revised for BMJ Open and JECH)
-    * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/track-changes-bmjopen.docx)
+      * Differences between the two manuscripts (revised for BMJ Open and JECH) in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/track-changes-bmjopen.docx)
 
 
 <!--   * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.pdf) -- [code for manuscript](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.Rmd) and [titlepage script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms-jech-titlepage.Rmd) and [tables](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms-jech.Rmd) -->
