@@ -1,12 +1,12 @@
 ---
 layout: single
-title : analyses for manuscript 1 -- Sociodemographic predictors of early postnatal growth
+title : analyses for manuscript 1 -- Sociodemographic predictors of early postnatal growth: evidence from a Chilean infancy cohort
 permalink: /diss/ms1-analyses/
 ---
 
 ## Description
 
-Analyses for manuscript 1 include estimating the association between prenatal predictors and infant physical growth from months 0 to 5 as an outcome. In the manuscripte, we will focus on characterizing growth by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids.
+Analyses for manuscript 1 include estimating the association between prenatal predictors and infant physical growth from months 0 to 5 as an outcome. We will focus on characterizing growth by the SITAR method, which extracts out up to three different aspects of growth for an individual and uses that as an exposure in regression models with univariate measures of lipids.
 
 
 ## Manuscript draft
@@ -29,7 +29,7 @@ Analyses for manuscript 1 include estimating the association between prenatal pr
   
     * Code: [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-wfl-ms.Rmd)
 
-  * [Google docs source document for manuscript](https://docs.google.com/document/d/1sqjSOwP_TUdE20elaogdvLT-J9tWwCOA5NEZTfCg3X0/edit?usp=sharing)
+  * [Google docs source document for manuscript](https://docs.google.com/document/d/1zlWE4Z0PSLQwszWSGy2mudiDxccHOi1ejrg7cmpAF1k/edit#heading=h.mm5idb2yubyc)
 
     * Note: I use this google doc as my source to create the following files using Rmarkdown as shown [here](/misc/edits/).
     
