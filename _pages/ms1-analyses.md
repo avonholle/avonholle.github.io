@@ -1,6 +1,6 @@
 ---
 layout: single
-title : analyses for manuscript 1 -- Sociodemographic predictors of early postnatal growth: evidence from a Chilean infancy cohort
+title : "Analyses for manuscript 2 -- Infant Growth Trajectories and Lipid Levels in Adolescence: Evidence from a Chilean Infancy Cohort"
 permalink: /diss/ms1-analyses/
 ---
 
