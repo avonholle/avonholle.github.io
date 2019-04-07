@@ -11,7 +11,7 @@ Analyses for manuscript 1 include estimating the association between prenatal pr
 
 ## Manuscript draft
 
-  * Manuscript formatted for BMJ Open, 1/2019 in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
+  * Manuscript formatted for BMJ Open, 4/2019 in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
     
       * Original manuscript formatted for Journal Environmental and Community Health (JECH), 6/2018. In [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx)
     
