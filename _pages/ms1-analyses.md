@@ -12,10 +12,16 @@ Analyses for manuscript 1 include estimating the association between prenatal pr
 ## Manuscript draft
 
   * Manuscript formatted for BMJ Open, 4/2019 in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
+
+  * [Google docs source document for manuscript](https://docs.google.com/document/d/1zlWE4Z0PSLQwszWSGy2mudiDxccHOi1ejrg7cmpAF1k/edit#heading=h.mm5idb2yubyc)
+
+    * Note: I use this google doc as my source to create the following files using Rmarkdown as shown [here](/misc/edits/).
+
     
       * Original manuscript formatted for Journal Environmental and Community Health (JECH), 6/2018. In [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx)
     
-      * Differences between the two manuscripts (revised for BMJ Open and JECH) in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/track-changes-bmjopen.docx)
+<!--      * Differences between the two manuscripts (revised for BMJ Open and JECH) in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/track-changes-bmjopen.docx)
+-->
 
 
 <!--   * [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx) -- [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.pdf) -- [code for manuscript](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript.Rmd) and [titlepage script](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/ms-jech-titlepage.Rmd) and [tables](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/tables-ms-jech.Rmd) -->
@@ -29,9 +35,6 @@ Analyses for manuscript 1 include estimating the association between prenatal pr
   
     * Code: [Table 1](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table1-rev-ms.Rmd) -- [Table 2](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ms.Rmd) -- [Table 3](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-ht-ms.Rmd) -- [Table 4](../../unc-dissertation-markdown-p2/includes/scripts/paper1/sitar-rev5/table2-mice-wfl-ms.Rmd)
 
-  * [Google docs source document for manuscript](https://docs.google.com/document/d/1zlWE4Z0PSLQwszWSGy2mudiDxccHOi1ejrg7cmpAF1k/edit#heading=h.mm5idb2yubyc)
-
-    * Note: I use this google doc as my source to create the following files using Rmarkdown as shown [here](/misc/edits/).
     
 
 ## Manuscript draft outline for discussion
