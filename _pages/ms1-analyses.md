@@ -10,7 +10,7 @@ Analyses for manuscript 1 include estimating the association between sociodemogr
 
 ## Manuscript draft
 
-  * Manuscript formatted for BMJ Open, 6/2019 in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
+  * Manuscript formatted for BMJ Open, 8/2019 in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
 
   * [Google docs source document for manuscript](https://docs.google.com/document/d/1zlWE4Z0PSLQwszWSGy2mudiDxccHOi1ejrg7cmpAF1k/edit#heading=h.mm5idb2yubyc)
 
