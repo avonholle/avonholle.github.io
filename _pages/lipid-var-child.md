@@ -10,19 +10,16 @@ permalink: /manuscripts/slcs-lipids/
 
 Lipid-related Genetic Variants and Lipid Outcomes in a Cohort of Chilean Children
 
-### Status
-
-Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/EPILifestyle/UCM_316904_EPILifestyle-Scientific-Sessions.jsp) meetings.
-
-[Abstract](../../ms-201608-1/screenshot-abstract-slcs-aha2017.png)
 
 ### Statistical Analysis Plan (SAP)
 
 [SAP with draft abstract](../../ms-201608-1/StatisticalAnalysisPlan.html)
 
-### Manuscript draft
+<!--### Manuscript draft
 
 [When available, place link to google docs draft here.]
+-->
+
 
 ### Repo
 
@@ -30,13 +27,16 @@ Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/profes
 
 ---
 
-## Current analytic work
 
-### Poster for AHA 2017 EPID/Lifestyle conference
+## Poster for AHA 2017 EPID/Lifestyle conference
 
-[Poster](../../ms-201608-1/aha-2017-slcs.pdf)
+[Poster pdf](../../ms-201608-1/aha-2017-slcs.pdf)
 
 [Slides for poster](../../ms-201608-1/aha-2017-slcs-slides.pdf)
+
+[Poster for AHA EPID/Lifestyle 2017 meeting](http://professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/EPILifestyle/UCM_316904_EPILifestyle-Scientific-Sessions.jsp)
+
+[Abstract](../../ms-201608-1/screenshot-abstract-slcs-aha2017.png)
 
 ### Results
 
@@ -48,6 +48,7 @@ Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/profes
 [Online slides](../ms-201608-1/chile-slides-201612.html) -- [Code](https://github.com/avonholle/ms-201608-1/blob/main/slides/chile-slides-201612.Rmd)
 -->
 
+<!--
 ### Additional information
 
 1. [information on the phenotype](../../ms-201608-1/phenotype-file.html)
@@ -55,3 +56,4 @@ Making poster for [AHA EPID/Lifestyle 2017](http://professional.heart.org/profes
 2. [.csv file of snps](../../ms-201608-1/lipid-snps.txt)
 
 3. [List of snps for study and code used to generate list](../../ms-201608-1/snp-list.html)
+-->

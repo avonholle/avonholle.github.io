@@ -10,17 +10,15 @@ permalink: /manuscripts/cfa-lipids/
 
 Confirmatory factor analysis (CFA) of multivariate lipid distributions across time and race-ethnic groups: United States, 2003-2012
 
-### Status
-
-Writing manuscript
-
 ### Statistical Analysis Plan (SAP)
 
 [SAP with draft abstract](../../ms201608-2/StatisticalAnalysisPlan.html)
 
 ### Manuscript draft
 
+<!--
 [Current draft, html](../../ms201608-2/ms-201705-draft.html) -- [current draft, Word version](../../ms201608-2/ms-201705-draft.docx)
+-->
 
 [Tables for draft](../../ms201608-2/mplus-results-manuscript.html) -- [code](../../ms201608-2/mplus-results-manuscript.Rmd)
 
@@ -31,9 +29,9 @@ Writing manuscript
 ---
 
 
-### Completed analytic work
+### AHA EPI|Lifestyle 2017 conference
 
-- Poster for [AHA EPID/Lifestyle 2017 conference](http://professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/EPILifestyle/UCM_316904_EPILifestyle-Scientific-Sessions.jsp).
+- Poster for [AHA EPI/Lifestyle 2017 conference](http://professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/EPILifestyle/UCM_316904_EPILifestyle-Scientific-Sessions.jsp).
 
   * [Meeting abstract](../../ms201608-2/screenshot-abstract-cfa-aha2017.png)
 
@@ -43,11 +41,12 @@ Writing manuscript
 
 ---
 
+<!--
 ### Initial descriptive statistics for entire sample
 
  - [Descriptive measures](../../ms201608-2/group1.html)
 
-<!--
+
 
 ## Confirmatory Factor Analyses (CFA)
 
