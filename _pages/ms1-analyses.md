@@ -8,9 +8,9 @@ permalink: /diss/ms1-analyses/
 
 Analyses for manuscript 1 include estimating the association between sociodemographic predictors and infant physical growth from 0 to 5 months as an outcome. We will focus on characterizing growth by the SITAR method, which extracts out up to three different growth parameters (size, tempo, and velocity) for an individual and uses that as an outcome in regression models with univariate sociodemographic measures.
 
-## Manuscript draft
+## Manuscript
 
-  * Manuscript formatted for BMJ Open, 8/2019 in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
+<!--  * Manuscript formatted for BMJ Open, 8/2019 in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/full-manuscript-tosubmitdraft-bmjopen.docx)
 
   * [Google docs source document for manuscript](https://docs.google.com/document/d/1zlWE4Z0PSLQwszWSGy2mudiDxccHOi1ejrg7cmpAF1k/edit#heading=h.mm5idb2yubyc)
 
@@ -18,7 +18,9 @@ Analyses for manuscript 1 include estimating the association between sociodemogr
 
     
       * Original manuscript formatted for Journal Environmental and Community Health (JECH), 6/2018. In [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/full-manuscript-submitted.docx)
-    
+-->
+
+
 <!--      * Differences between the two manuscripts (revised for BMJ Open and JECH) in [Word format](../../unc-dissertation-markdown-p2/includes/scripts/paper1/draft/bmj-open/track-changes-bmjopen.docx)
 -->
 

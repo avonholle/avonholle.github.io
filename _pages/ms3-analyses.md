@@ -8,10 +8,11 @@ permalink: /diss/ms3-analyses/
 
 ## Manuscript
 
-  * Draft manuscript in
+<!--  * Draft manuscript in
     * [word format](../../unc-dissertation-markdown-p2/includes/scripts/paper3/draft/ms3.docx)
     * [pdf format](../../unc-dissertation-markdown-p2/includes/scripts/paper3/draft/ms3.pdf)
     * [html format](../../unc-dissertation-markdown-p2/includes/scripts/paper3/draft/ms3.html)
+-->
 
 <!--
 [Tables and figures, html version](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.html) -- [code](../../unc-dissertation-markdown-p2/includes/scripts/paper2/bch-read-all.Rmd)  
