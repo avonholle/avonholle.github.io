@@ -38,11 +38,12 @@ Lipid-related Genetic Variants and Lipid Outcomes in a Cohort of Chilean Childre
 
 [Abstract](../../ms-201608-1/screenshot-abstract-slcs-aha2017.png)
 
+<!--
+
 ### Results
 
 [Preliminary summary of results](../../ms-201608-1/analysis-summary.pdf)
 
-<!--
 ## Prep work for December 2016 presentation
 
 [Online slides](../ms-201608-1/chile-slides-201612.html) -- [Code](https://github.com/avonholle/ms-201608-1/blob/main/slides/chile-slides-201612.Rmd)
